@@ -1,3 +1,4 @@
+TVB翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
 TVB翡翠台,http://r.jdshipin.com/qrfbg
 TVB翡翠台,http://o11.163189.xyz/stream/tvb/fct/
 TVB翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
@@ -39,6 +40,7 @@ TVBS,http://rihou.cc:555/tv/TVBS1
 东森综合,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8524/.m3u8
 东森综合,http://iptv.4666888.xyz/iptv2A.php?id=58
 福建漳州六鳌翡翠湾,http://gcalic.v.myalicdn.com/gc/fcw01_1/index.m3u8?contentid=2820180516001
+非凡-迪安,https://cdn.ttvb.eu.org/huya/940213
 东方明珠东方朔,https://cdn.ttvb.eu.org/bilibili/26351451
 纬来体育,https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5edef2b25.m3u8
 纬来体育,https://epg.pw/stream/4f18dfe0593db5c686eb64ae8edaf2a9202d4d46bdc9bbde2cee27708e12ea01.m3u8
@@ -178,13 +180,13 @@ ViuTV,http://r.jdshipin.com/TcKr2
 翡翠台,http://122.152.202.33/s/81a8a44f/index.m3u8?id=53
 翡翠台,http://101.35.240.114:88/live.php?id=翡翠台
 翡翠台,http://iptv.4666888.xyz/iptv2A.php?id=34
-经典香港电影,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/virtuallive/5100180869/75/index.m3u8?msisdn=20261004180140aa1f24e9af0f4041bdcf91f90afff0ee&mdspid=&spid=800033&netType=0&sid=5500242089&pid=2028597139&timestamp=20261004180140&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=625703337&ParentNodeID=-99&assertID=5500242089&client_ip=171.8.79.254&SecurityKey=20261004180140&promotionId=&mvid=5100180869&mcid=500020&playurlVersion=WX-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=b52fabc2e1bce292611c031cebe2d13f
+经典香港电影,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/virtuallive/5100180869/75/index.m3u8?msisdn=2026100522014022fadb4a66e945d3a8b53a6568d61816&mdspid=&spid=800033&netType=0&sid=5500242089&pid=2028597139&timestamp=20261005220140&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=625703337&ParentNodeID=-99&assertID=5500242089&client_ip=171.8.79.254&SecurityKey=20261005220140&promotionId=&mvid=5100180869&mcid=500020&playurlVersion=WX-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=ee4dab573983bf277c5b0911d75d769d
 TVB千禧经典,http://iptv.4666888.xyz/iptv2A.php?id=22
 TVBS新闻,http://iptv.4666888.xyz/iptv2A.php?id=43
 东森电影,http://iptv.4666888.xyz/iptv2A.php?id=48
 TVB明珠,http://iptv.4666888.xyz/iptv2A.php?id=29
 HOY Infotainment,https://hoytv-live-stream.hoy.tv/ch78/index.m3u8
-HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
+HOY TV,http://r.jdshipin.com/sFw4S
 HOY TV,https://hoytv-live-stream.hoy.tv/ch77/index.m3u8
 NOW TV,https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 Right Now TV,https://a-cdn.klowdtv.com/live2/rightnowtv_720p/playlist.m3u8
