@@ -1,6 +1,10 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg.xml,https://live.zhi35.com/epg.xml.gz"
 #EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/bilibili/5050" group-title="海外",EdmundDZhang
 https://cdn.ttvb.eu.org/bilibili/5050
+#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/bilibili/21919321" group-title="海外",HiiroVTuber
+https://cdn.ttvb.eu.org/bilibili/21919321
+#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/bilibili/30040584" group-title="海外",OA-Sunzo
+https://cdn.ttvb.eu.org/bilibili/30040584
 #EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/bilibili/390508" group-title="海外",OneMicroSpace
 https://cdn.ttvb.eu.org/bilibili/390508
 #EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/bilibili/10265" group-title="海外",UCYU
@@ -9,60 +13,54 @@ https://cdn.ttvb.eu.org/bilibili/10265
 https://cdn.ttvb.eu.org/bilibili/1403227
 #EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/bilibili/862316" group-title="海外",againwhy
 https://cdn.ttvb.eu.org/bilibili/862316
-#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/soop/dhtnqls1238" group-title="海外",Unknown
-https://cdn.ttvb.eu.org/soop/dhtnqls1238
-#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/soop/kyoonah1217" group-title="海外",Unknown
-https://cdn.ttvb.eu.org/soop/kyoonah1217
-#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/soop/lyl9095" group-title="海外",Unknown
-https://cdn.ttvb.eu.org/soop/lyl9095
-#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/soop/fall0715" group-title="海外",Unknown
-https://cdn.ttvb.eu.org/soop/fall0715
-#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/soop/rlrlvkvk123" group-title="海外",Unknown
-https://cdn.ttvb.eu.org/soop/rlrlvkvk123
-#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/soop/9hari8" group-title="海外",Unknown
-https://cdn.ttvb.eu.org/soop/9hari8
-#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/soop/eun7888" group-title="海外",Unknown
-https://cdn.ttvb.eu.org/soop/eun7888
-#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/soop/daum0319" group-title="海外",Unknown
-https://cdn.ttvb.eu.org/soop/daum0319
-#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/soop/gkstkd14" group-title="海外",Unknown
-https://cdn.ttvb.eu.org/soop/gkstkd14
-#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/soop/krkdrudwn77" group-title="海外",Unknown
-https://cdn.ttvb.eu.org/soop/krkdrudwn77
-#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/soop/asq1177" group-title="海外",Unknown
-https://cdn.ttvb.eu.org/soop/asq1177
-#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/soop/moonwol0614" group-title="海外",Unknown
-https://cdn.ttvb.eu.org/soop/moonwol0614
-#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/soop/kkkku96" group-title="海外",Unknown
-https://cdn.ttvb.eu.org/soop/kkkku96
-#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/soop/janjju" group-title="海外",Unknown
-https://cdn.ttvb.eu.org/soop/janjju
-#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/soop/soclato" group-title="海外",Unknown
-https://cdn.ttvb.eu.org/soop/soclato
-#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/soop/sanaekcy" group-title="海外",Unknown
-https://cdn.ttvb.eu.org/soop/sanaekcy
-#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/soop/wjswhdtjd230" group-title="海外",Unknown
-https://cdn.ttvb.eu.org/soop/wjswhdtjd230
-#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/soop/aisun777" group-title="海外",Unknown
-https://cdn.ttvb.eu.org/soop/aisun777
-#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/soop/nanajam" group-title="海外",Unknown
-https://cdn.ttvb.eu.org/soop/nanajam
-#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/soop/bjinoa" group-title="海外",Unknown
-https://cdn.ttvb.eu.org/soop/bjinoa
-#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/douyin/52463389890" group-title="海外",Zz
-https://cdn.ttvb.eu.org/douyin/52463389890
-#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/douyin/44656941725" group-title="海外",11
-https://cdn.ttvb.eu.org/douyin/44656941725
+#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/bilibili/22863790" group-title="海外",Unknown
+https://cdn.ttvb.eu.org/bilibili/22863790
+#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/soop/jeehyeoun" group-title="海外",Unknown
+https://cdn.ttvb.eu.org/soop/jeehyeoun
+#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/soop/itsme1922" group-title="海外",Unknown
+https://cdn.ttvb.eu.org/soop/itsme1922
+#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/soop/smpk96" group-title="海外",Unknown
+https://cdn.ttvb.eu.org/soop/smpk96
+#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/soop/daphnerin" group-title="海外",Unknown
+https://cdn.ttvb.eu.org/soop/daphnerin
+#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/soop/inhye0416" group-title="海外",Unknown
+https://cdn.ttvb.eu.org/soop/inhye0416
+#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/soop/eunyoung1238" group-title="海外",Unknown
+https://cdn.ttvb.eu.org/soop/eunyoung1238
+#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/soop/wnnw" group-title="海外",Unknown
+https://cdn.ttvb.eu.org/soop/wnnw
+#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/soop/tmdgns777" group-title="海外",Unknown
+https://cdn.ttvb.eu.org/soop/tmdgns777
+#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/soop/1004ysus" group-title="海外",Unknown
+https://cdn.ttvb.eu.org/soop/1004ysus
+#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/soop/gmlwl0202" group-title="海外",Unknown
+https://cdn.ttvb.eu.org/soop/gmlwl0202
+#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/soop/nj8893" group-title="海外",Unknown
+https://cdn.ttvb.eu.org/soop/nj8893
+#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/soop/tildaaa" group-title="海外",Unknown
+https://cdn.ttvb.eu.org/soop/tildaaa
+#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/soop/wk3220" group-title="海外",Unknown
+https://cdn.ttvb.eu.org/soop/wk3220
+#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/soop/km5430678" group-title="海外",Unknown
+https://cdn.ttvb.eu.org/soop/km5430678
+#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/soop/son4069" group-title="海外",Unknown
+https://cdn.ttvb.eu.org/soop/son4069
+#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/soop/ddodohee" group-title="海外",Unknown
+https://cdn.ttvb.eu.org/soop/ddodohee
+#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/soop/zbxlzzz" group-title="海外",Unknown
+https://cdn.ttvb.eu.org/soop/zbxlzzz
+#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/soop/seungju6544" group-title="海外",Unknown
+https://cdn.ttvb.eu.org/soop/seungju6544
+#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/soop/ssssummer" group-title="海外",Unknown
+https://cdn.ttvb.eu.org/soop/ssssummer
 #EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/douyin/MCS361643051" group-title="海外",700
 https://cdn.ttvb.eu.org/douyin/MCS361643051
-#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/douyin/30727769100" group-title="海外",M
-https://cdn.ttvb.eu.org/douyin/30727769100
-#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/douyin/49770074750" group-title="海外",ice star
-https://cdn.ttvb.eu.org/douyin/49770074750
-#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/douyu/12267539" group-title="海外",DANK1NG
-https://cdn.ttvb.eu.org/douyu/12267539
-#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/huya/10188" group-title="海外",DANK1NG
-https://cdn.ttvb.eu.org/huya/10188
+#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/douyin/37029384065" group-title="海外",MD1999
+https://cdn.ttvb.eu.org/douyin/37029384065
+#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/douyin/973026190437" group-title="海外",Mahone13
+https://cdn.ttvb.eu.org/douyin/973026190437
+#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/douyin/a11y222" group-title="海外",ally
+https://cdn.ttvb.eu.org/douyin/a11y222
 #EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/douyu/12534632" group-title="海外",LR1245
 https://cdn.ttvb.eu.org/douyu/12534632
 #EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/douyu/34411" group-title="海外",OrangebabyOAO
@@ -71,30 +69,20 @@ https://cdn.ttvb.eu.org/douyu/34411
 https://cdn.ttvb.eu.org/huya/11601966
 #EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/huya/11352879" group-title="海外",HelloKitty
 https://cdn.ttvb.eu.org/huya/11352879
-#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/huya/770714" group-title="海外",cxy0714
-https://cdn.ttvb.eu.org/huya/770714
-#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/soop/ulsandodud" group-title="海外",BJ
-https://cdn.ttvb.eu.org/soop/ulsandodud
-#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/soop/salgu1004" group-title="海外",E
-https://cdn.ttvb.eu.org/soop/salgu1004
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TWFDkap.png" group-title="海外",E
-http://57.128.231.171:8080/273/index.m3u8
+#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/soop/hellparty1" group-title="海外",zip
+https://cdn.ttvb.eu.org/soop/hellparty1
 #EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/soop/joahe2" group-title="海外",p
 https://cdn.ttvb.eu.org/soop/joahe2
-#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/soop/dlswldus107" group-title="海外",JYEON
-https://cdn.ttvb.eu.org/soop/dlswldus107
 #EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/twitch/ai_modeler" group-title="海外",AI_Modeler
 https://cdn.ttvb.eu.org/twitch/ai_modeler
-#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/twitch/ai_technok" group-title="海外",AI_TechnoK
-https://cdn.ttvb.eu.org/twitch/ai_technok
 #EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/twitch/ASIANDANCERS" group-title="海外",ASIANDANCERS
 https://cdn.ttvb.eu.org/twitch/ASIANDANCERS
 #EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/twitch/asmr_arale" group-title="海外",ASMR_Arale
 https://cdn.ttvb.eu.org/twitch/asmr_arale
-#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/twitch/ChinaSlime" group-title="海外",ChinaSlime
-https://cdn.ttvb.eu.org/twitch/ChinaSlime
 #EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/twitch/colawaytv" group-title="海外",ColawayTV
 https://cdn.ttvb.eu.org/twitch/colawaytv
+#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/twitch/jinnytty" group-title="海外",Jinnytty
+https://cdn.ttvb.eu.org/twitch/jinnytty
 #EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/twitch/kbjdancetv" group-title="海外",KBJDanceTV
 https://cdn.ttvb.eu.org/twitch/kbjdancetv
 #EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/twitch/Mellooow_" group-title="海外",Mellooow
@@ -103,22 +91,16 @@ https://cdn.ttvb.eu.org/twitch/Mellooow_
 https://cdn.ttvb.eu.org/twitch/nonstopfashion
 #EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/twitch/QBunnyTV" group-title="海外",QBunnyTV
 https://cdn.ttvb.eu.org/twitch/QBunnyTV
-#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/twitch/zumi" group-title="海外",Zumi
-https://cdn.ttvb.eu.org/twitch/zumi
 #EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/twitch/challengesdiversion" group-title="海外",challengesdiversion
 https://cdn.ttvb.eu.org/twitch/challengesdiversion
 #EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/twitch/dancetempt" group-title="海外",dancetempt
 https://cdn.ttvb.eu.org/twitch/dancetempt
-#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/twitch/emi_mge7" group-title="海外",emi_mge7
-https://cdn.ttvb.eu.org/twitch/emi_mge7
 #EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/twitch/hotdancettv" group-title="海外",hotdancettv
 https://cdn.ttvb.eu.org/twitch/hotdancettv
 #EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/twitch/koreandancers" group-title="海外",koreandancers
 https://cdn.ttvb.eu.org/twitch/koreandancers
 #EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/twitch/lilianasana" group-title="海外",lilianasana
 https://cdn.ttvb.eu.org/twitch/lilianasana
-#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/twitch/minaravel" group-title="海外",minaravel
-https://cdn.ttvb.eu.org/twitch/minaravel
 #EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/twitch/mira" group-title="海外",mira
 https://cdn.ttvb.eu.org/twitch/mira
 #EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/twitch/mirayogax" group-title="海外",mirayogax
@@ -127,38 +109,44 @@ https://cdn.ttvb.eu.org/twitch/mirayogax
 https://cdn.ttvb.eu.org/twitch/sickemoangel24
 #EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/twitch/soywini_" group-title="海外",soywini
 https://cdn.ttvb.eu.org/twitch/soywini_
-#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/bilibili/26571233" group-title="海外",0verthink1NG
-https://cdn.ttvb.eu.org/bilibili/26571233
-#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/bilibili/1883358196" group-title="海外",CS-advent
-https://cdn.ttvb.eu.org/bilibili/1883358196
+#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/twitch/spicyuuu" group-title="海外",spicyuuu
+https://cdn.ttvb.eu.org/twitch/spicyuuu
 #EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/bilibili/7395955" group-title="海外",Kyo_ow
 https://cdn.ttvb.eu.org/bilibili/7395955
 #EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/bilibili/23225863" group-title="海外",MCG_12Tap
 https://cdn.ttvb.eu.org/bilibili/23225863
+#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/bilibili/31294374" group-title="海外",OA-LEAVE7
+https://cdn.ttvb.eu.org/bilibili/31294374
 #EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/douyin/9niub" group-title="海外",9niub
 https://cdn.ttvb.eu.org/douyin/9niub
 #EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/douyin/21306770991" group-title="海外",APEX-QQ
 https://cdn.ttvb.eu.org/douyin/21306770991
-#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/douyin/HHang02" group-title="海外",HangHang
-https://cdn.ttvb.eu.org/douyin/HHang02
 #EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/douyin/NN4747" group-title="海外",NN47
 https://cdn.ttvb.eu.org/douyin/NN4747
+#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/douyin/60922269674" group-title="海外",Newpipi
+https://cdn.ttvb.eu.org/douyin/60922269674
 #EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/douyin/FYL99618" group-title="海外",T9
 https://cdn.ttvb.eu.org/douyin/FYL99618
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kQKzpYj.png" group-title="海外",T9
 https://streaming.softwarecreation.it/tnove/tnove/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/douyin/kaixinX1" group-title="海外",Vie
-https://cdn.ttvb.eu.org/douyin/kaixinX1
+#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/douyin/Xmm.jr" group-title="海外",Xmm
+https://cdn.ttvb.eu.org/douyin/Xmm.jr
 #EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/douyin/57894179290" group-title="海外",jjking
 https://cdn.ttvb.eu.org/douyin/57894179290
+#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/douyin/stay0712." group-title="海外",silent
+https://cdn.ttvb.eu.org/douyin/stay0712.
+#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/douyin/543221183540" group-title="海外",vx30
+https://cdn.ttvb.eu.org/douyin/543221183540
+#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/douyu/5135383" group-title="海外",Chalice
+https://cdn.ttvb.eu.org/douyu/5135383
 #EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/douyu/10197652" group-title="海外",Evelinas
 https://cdn.ttvb.eu.org/douyu/10197652
 #EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/douyu/6490082" group-title="海外",Jackyar
 https://cdn.ttvb.eu.org/douyu/6490082
-#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/douyu/36252" group-title="海外",MrGemini
-https://cdn.ttvb.eu.org/douyu/36252
 #EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/douyu/142488" group-title="海外",Nostalie
 https://cdn.ttvb.eu.org/douyu/142488
+#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/douyu/522387" group-title="海外",impOUO
+https://cdn.ttvb.eu.org/douyu/522387
 #EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/douyu/24422" group-title="海外",pigff
 https://cdn.ttvb.eu.org/douyu/24422
 #EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/douyu/3484" group-title="海外",scboy
@@ -167,10 +155,12 @@ https://cdn.ttvb.eu.org/douyu/3484
 https://cdn.ttvb.eu.org/douyu/9999
 #EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/douyu/60937" group-title="海外",zard1991
 https://cdn.ttvb.eu.org/douyu/60937
-#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/huya/123321" group-title="海外",CSBOY
-https://cdn.ttvb.eu.org/huya/123321
-#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/huya/321123" group-title="海外",CSBOY-Mo
-https://cdn.ttvb.eu.org/huya/321123
+#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/huya/991108" group-title="海外",AmazingJ
+https://cdn.ttvb.eu.org/huya/991108
+#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/huya/211888" group-title="海外",Maybeee111
+https://cdn.ttvb.eu.org/huya/211888
+#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/huya/310112" group-title="海外",Sdn
+https://cdn.ttvb.eu.org/huya/310112
 #EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/huya/890001" group-title="海外",WE957
 https://cdn.ttvb.eu.org/huya/890001
 #EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/huya/829922" group-title="海外",Yumiko0414
@@ -179,24 +169,26 @@ https://cdn.ttvb.eu.org/huya/829922
 https://cdn.ttvb.eu.org/huya/691406
 #EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/huya/222523" group-title="海外",kRYST4L
 https://cdn.ttvb.eu.org/huya/222523
-#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/huya/148651" group-title="海外",loveyouq
-https://cdn.ttvb.eu.org/huya/148651
-#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/soop/jaedong23" group-title="海外",JD
-https://cdn.ttvb.eu.org/soop/jaedong23
-#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/soop/goblin2001" group-title="海外",goblin2001
-https://cdn.ttvb.eu.org/soop/goblin2001
+#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/soop/rlaxordyd" group-title="海外",Bisu
+https://cdn.ttvb.eu.org/soop/rlaxordyd
+#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/soop/scv6256" group-title="海外",Light
+https://cdn.ttvb.eu.org/soop/scv6256
 #EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/twitch/dendi" group-title="海外",Dendi
 https://cdn.ttvb.eu.org/twitch/dendi
-#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/twitch/Dmitry_Lixxx" group-title="海外",Dmitry_Lixxx
-https://cdn.ttvb.eu.org/twitch/Dmitry_Lixxx
 #EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/twitch/ESLCS" group-title="海外",ESLCS
 https://cdn.ttvb.eu.org/twitch/ESLCS
 #EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/twitch/missmikkaa" group-title="海外",MissMikkaa
 https://cdn.ttvb.eu.org/twitch/missmikkaa
+#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/twitch/naowh" group-title="海外",Naowh
+https://cdn.ttvb.eu.org/twitch/naowh
+#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/twitch/chopperinho" group-title="海外",chopperinho
+https://cdn.ttvb.eu.org/twitch/chopperinho
 #EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/bilibili/27519423" group-title="海外",LofiGirl
 https://cdn.ttvb.eu.org/bilibili/27519423
 #EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/twitch/adanalife_" group-title="海外",ADanaLife
 https://cdn.ttvb.eu.org/twitch/adanalife_
+#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/twitch/heartlandtruckingusa" group-title="海外",HeartlandTruckingUSA
+https://cdn.ttvb.eu.org/twitch/heartlandtruckingusa
 #EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/twitch/rawreporting" group-title="海外",RawReporting
 https://cdn.ttvb.eu.org/twitch/rawreporting
 #EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/twitch/shouttv" group-title="海外",ShoutTV
@@ -213,8 +205,6 @@ https://cdn.ttvb.eu.org/twitch/therealelvira
 https://cdn.ttvb.eu.org/twitch/theupperleft
 #EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/twitch/TheWindowSeat" group-title="海外",TheWindowSeat
 https://cdn.ttvb.eu.org/twitch/TheWindowSeat
-#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/twitch/topmedia_topnews" group-title="海外",TopMedia_TopNews
-https://cdn.ttvb.eu.org/twitch/topmedia_topnews
 #EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/twitch/airportambiance" group-title="海外",airportambiance
 https://cdn.ttvb.eu.org/twitch/airportambiance
 #EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/twitch/europesinoinstitute" group-title="海外",europesinoinstitute
@@ -223,12 +213,18 @@ https://cdn.ttvb.eu.org/twitch/europesinoinstitute
 https://cdn.ttvb.eu.org/twitch/issaboveyou
 #EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/twitch/keepmunseeweird" group-title="海外",keepmunseeweird
 https://cdn.ttvb.eu.org/twitch/keepmunseeweird
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/20261007 07:25.png" group-title="海外",20261007 07:25
+#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/twitch/news5live" group-title="海外",news5live
+https://cdn.ttvb.eu.org/twitch/news5live
+#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/20261008 07:57.png" group-title="海外",20261008 07:57
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 #EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CETV1.png" group-title="海外",CETV1
-http://103.236.77.86:29824/923287154
+http://rihou.cc:555/tv/CETV1
+#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CETV1.png" group-title="海外",CETV1
+http://47.104.178.59:3566/923287154
 #EXTINF:-1 group-title="海外",CETV1
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cetv1/50/20240709/index.m3u8?msisdn=2026100720030088f543658d674f06af7c0d59229de50c&mdspid=&spid=699004&netType=0&sid=5910022150&pid=2028597139&timestamp=20261007200300&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=923287154&ParentNodeID=-99&assertID=5910022150&client_ip=171.8.79.254&SecurityKey=20261007200300&promotionId=&mvid=5900006636&mcid=500020&playurlVersion=WX-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=3fe4317d563b92a4fc9766b4fe10ca20
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cetv1/50/20240709/index.m3u8?msisdn=202610082003019fd25ecadd1147af84c28b0fc8d7ded8&mdspid=&spid=699004&netType=0&sid=5910022150&pid=2028597139&timestamp=20261008200301&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=923287154&ParentNodeID=-99&assertID=5910022150&client_ip=171.8.79.254&SecurityKey=20261008200301&promotionId=&mvid=5900006636&mcid=500020&playurlVersion=WX-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=e9827272efbda1a90c6d7a9c2fa0d295
+#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CETV1.png" group-title="海外",CETV1
+http://103.236.77.86:29824/923287154
 #EXTINF:-1 group-title="海外",CETV1
 http://192.168.123.1:23234/rtp/239.3.1.57:8152
 #EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CETV1.png" group-title="海外",CETV1
@@ -261,24 +257,24 @@ http://112.26.106.165:7788/923287154
 http://www.ikerobot.com:1234/923287154
 #EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CETV1.png" group-title="海外",CETV1
 http://39.165.39.49:85/tsfile/live/1090_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CETV1.png" group-title="海外",CETV1
-http://222.213.105.65:7788/923287154
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CETV1.png" group-title="海外",CETV1
-http://124.221.146.169:7001/923287154
+#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CETV2.png" group-title="海外",CETV2
+http://183.11.239.36:808/hls/78/index.m3u8
+#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CETV2.png" group-title="海外",CETV2
+http://222.213.105.65:7788/923287211
+#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CETV2.png" group-title="海外",CETV2
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cetv2/50/20240709/index.m3u8?msisdn=20261008040301a4e0cbe8ce584e529f53f37ea0a31493&mdspid=&spid=699004&netType=0&sid=5910022152&pid=2028597139&timestamp=20261008040301&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=923287211&ParentNodeID=-99&assertID=5910022152&client_ip=171.8.79.254&SecurityKey=20261008040301&promotionId=&mvid=5900006638&mcid=500020&playurlVersion=WX-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=b37011fb7b35c5d36603a8f3ae1e2d78
+#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CETV2.png" group-title="海外",CETV2
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cetv2/50/20240709/index.m3u8?msisdn=20261007080301a479b3cf10a74695b8d681b6ba787fc4&mdspid=&spid=699004&netType=0&sid=5910022152&pid=2028597139&timestamp=20261007080301&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=923287211&ParentNodeID=-99&assertID=5910022152&client_ip=171.8.79.254&SecurityKey=20261007080301&promotionId=&mvid=5900006638&mcid=500020&playurlVersion=WX-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=099cfaf5a1c1804ae34c0f793ddcd353
+#EXTINF:-1 group-title="海外",CETV2
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cetv2/50/20240709/index.m3u8?msisdn=20261008200301431890893a0640f28e18706885ba58a4&mdspid=&spid=699004&netType=0&sid=5910022152&pid=2028597139&timestamp=20261008200301&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=923287211&ParentNodeID=-99&assertID=5910022152&client_ip=171.8.79.254&SecurityKey=20261008200301&promotionId=&mvid=5900006638&mcid=500020&playurlVersion=WX-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=da88778b52df0fcd61686e37e12bd59b
 #EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CETV2.png" group-title="海外",CETV2
 http://45.78.61.93:1234/923287211
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CETV2.png" group-title="海外",CETV2
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cetv2/50/20240709/index.m3u8?msisdn=202610070403004aa1d1f1a742492c80ddbe82eda59674&mdspid=&spid=699004&netType=0&sid=5910022152&pid=2028597139&timestamp=20261007040300&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=923287211&ParentNodeID=-99&assertID=5910022152&client_ip=171.8.79.254&SecurityKey=20261007040300&promotionId=&mvid=5900006638&mcid=500020&playurlVersion=WX-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=7deca64a6c9d878188d04caae3c34094
-#EXTINF:-1 group-title="海外",CETV2
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cetv2/50/20240709/index.m3u8?msisdn=202610072003006cbda86d86d14ee8b2568b589b6f2dac&mdspid=&spid=699004&netType=0&sid=5910022152&pid=2028597139&timestamp=20261007200300&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=923287211&ParentNodeID=-99&assertID=5910022152&client_ip=171.8.79.254&SecurityKey=20261007200300&promotionId=&mvid=5900006638&mcid=500020&playurlVersion=WX-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=a7850fa2654a2c73789438b263830d8e
 #EXTINF:-1 group-title="海外",CETV2
 http://192.168.123.1:23234/rtp/239.3.1.54:4120
 #EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CETV2.png" group-title="海外",CETV2
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
 #EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CETV2.png" group-title="海外",CETV2
 http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv2&videoTVChannel=cetv2&P2PChannelID=pd://cctv_p2p_hdcetv2&tai=cetv2&VideoName=cetv2&channelID=cetv2
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CETV2.png" group-title="海外",CETV2
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cetv2/50/20240709/index.m3u8?msisdn=2026100608030155db4c7f729b4fde98026ddd3798ff32&mdspid=&spid=699004&netType=0&sid=5910022152&pid=2028597139&timestamp=20261006080301&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=923287211&ParentNodeID=-99&assertID=5910022152&client_ip=171.8.79.254&SecurityKey=20261006080301&promotionId=&mvid=5900006638&mcid=500020&playurlVersion=WX-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=f4b4cedd5e73465c44fbbf8f0497ec99
 #EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CETV2.png" group-title="海外",CETV2
 http://124.221.146.169:7001/923287211
 #EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CETV2.png" group-title="海外",CETV2
@@ -301,30 +297,30 @@ http://103.236.77.86:29824/923287211
 http://112.26.106.165:7788/923287211
 #EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CETV2.png" group-title="海外",CETV2
 http://120.76.248.139/live/bfgd/4200000492.m3u8
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CETV2.png" group-title="海外",CETV2
-https://live.chinacert.cftest5.cn/cnmg/live/923287211
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CETV2.png" group-title="海外",CETV2
-http://47.104.178.59:3566/923287211
 #EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CETV3.png" group-title="海外",CETV3
 http://kkk.888.3116598.xyz/api.php?n=tttt&id=s067jF&tk=FgM0vQMejxvG
 #EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CETV3.png" group-title="海外",CETV3
 http://rihou.cc:555/tv/CETV3
 #EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CETV4.png" group-title="海外",CETV4
+http://124.221.146.169:7001/923287339
+#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CETV4.png" group-title="海外",CETV4
+http://222.213.105.65:7788/923287339
+#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CETV4.png" group-title="海外",CETV4
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cetv4/50/20240709/index.m3u8?msisdn=20261008040301dc8a09555f7b447f96d82e35240521a8&mdspid=&spid=699004&netType=0&sid=5910022154&pid=2028597139&timestamp=20261008040301&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=923287339&ParentNodeID=-99&assertID=5910022154&client_ip=171.8.79.254&SecurityKey=20261008040301&promotionId=&mvid=5900006640&mcid=500020&playurlVersion=WX-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=4e24c11110660552150127011538e6a8
+#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CETV4.png" group-title="海外",CETV4
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cetv4/50/20240709/index.m3u8?msisdn=202610070803017353f8ab639b4872a66b1e0b42db354f&mdspid=&spid=699004&netType=0&sid=5910022154&pid=2028597139&timestamp=20261007080301&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=923287339&ParentNodeID=-99&assertID=5910022154&client_ip=171.8.79.254&SecurityKey=20261007080301&promotionId=&mvid=5900006640&mcid=500020&playurlVersion=WX-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=de4436f68fc19b2b31e6c83993c94b1a
+#EXTINF:-1 group-title="海外",CETV4
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cetv4/50/20240709/index.m3u8?msisdn=20261008200301c07b6b34f5dd44c4a0ca8ed2ea4d3e90&mdspid=&spid=699004&netType=0&sid=5910022154&pid=2028597139&timestamp=20261008200301&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=923287339&ParentNodeID=-99&assertID=5910022154&client_ip=171.8.79.254&SecurityKey=20261008200301&promotionId=&mvid=5900006640&mcid=500020&playurlVersion=WX-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=4a1443b2fa4ce4ccd6de32014409f384
+#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CETV4.png" group-title="海外",CETV4
 http://45.78.61.93:1234/923287339
 #EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CETV4.png" group-title="海外",CETV4
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cetv4/50/20240709/index.m3u8?msisdn=20261007040301396cd525238a49e9927832a0eff60a1c&mdspid=&spid=699004&netType=0&sid=5910022154&pid=2028597139&timestamp=20261007040301&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=923287339&ParentNodeID=-99&assertID=5910022154&client_ip=171.8.79.254&SecurityKey=20261007040301&promotionId=&mvid=5900006640&mcid=500020&playurlVersion=WX-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=49b08df5999038cd6279f561ae8b2479
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CETV4.png" group-title="海外",CETV4
 http://kkk.888.3116598.xyz/api.php?n=tttt&id=bzOgmq&tk=FgM0vQMejxvG
-#EXTINF:-1 group-title="海外",CETV4
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cetv4/50/20240709/index.m3u8?msisdn=20261007200301d03e9d17cafe45d88e899265e7f2835d&mdspid=&spid=699004&netType=0&sid=5910022154&pid=2028597139&timestamp=20261007200301&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=923287339&ParentNodeID=-99&assertID=5910022154&client_ip=171.8.79.254&SecurityKey=20261007200301&promotionId=&mvid=5900006640&mcid=500020&playurlVersion=WX-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=a744743bb9f128d3b1da4a790738fcc9
 #EXTINF:-1 group-title="海外",CETV4
 http://192.168.123.1:23234/rtp/239.3.1.56:4120
 #EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CETV4.png" group-title="海外",CETV4
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 #EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CETV4.png" group-title="海外",CETV4
 http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv4&videoTVChannel=cetv4&P2PChannelID=pd://cctv_p2p_hdcetv4&tai=cetv4&VideoName=cetv4&channelID=cetv4
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CETV4.png" group-title="海外",CETV4
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cetv4/50/20240709/index.m3u8?msisdn=202610060803015c0f2b90dc3f443c93ed1e21314a96af&mdspid=&spid=699004&netType=0&sid=5910022154&pid=2028597139&timestamp=20261006080301&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=923287339&ParentNodeID=-99&assertID=5910022154&client_ip=171.8.79.254&SecurityKey=20261006080301&promotionId=&mvid=5900006640&mcid=500020&playurlVersion=WX-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=6de4b6d02690d10d674419cf72931c9d
 #EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CETV4.png" group-title="海外",CETV4
 http://198.204.228.26/live/cetv4.m3u8
 #EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CETV4.png" group-title="海外",CETV4
@@ -345,10 +341,6 @@ http://www.ikerobot.com:1234/923287339
 http://103.236.77.86:29824/923287339
 #EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CETV4.png" group-title="海外",CETV4
 http://112.26.106.165:7788/923287339
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CETV4.png" group-title="海外",CETV4
-http://183.11.239.36:808/hls/79/index.m3u8
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CETV4.png" group-title="海外",CETV4
-http://47.104.178.59:3566/923287339
 #EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/Channel[V].png" group-title="海外",Channel
 http://rihou.cc:555/tv/Channel+V
 #EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/Channel[V].png" group-title="海外",Channel
@@ -500,7 +492,7 @@ http://92.114.85.87:8018/play/a00k/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2JO5Y8c.png" group-title="海外",4 Fun Kids
 https://stream.4fun.tv:8889/hls/4fk_high/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rI1wo2l.png" group-title="海外",4 Fun TV
-https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+https://stream.4fun.tv:8888/sd/4fun_sd_high.m3u8
 #EXTINF:-1 tvg-logo="https://www.aparatchi.com/images/chanells-logo/4kurd.svg" group-title="海外",urd(4K)
 https://4kuhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 group-title="海外",4 Music
@@ -2361,8 +2353,6 @@ http://181.78.12.119:16123/play/ch46/index.m3u8
 https://cdn.stmify.com/zapitv/stream/AXN_MOVIES/axn_white.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tJQckal.png" group-title="海外",AXN Movies
 http://50.7.120.34:8080/AXN_BLACK/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i5wOhkf.png" group-title="海外",AXN Poland
-https://2203.weebvideo.stream/hls/1288486/s/DI_yOeqLvqKFgnP7nYS18cjzG8MYtfk13VVnqo8DPkw/current/high/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LGEbwnT.png" group-title="海外",AXN Spin
 http://92.114.85.87:8010/play/a00b/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uVFenKm.png" group-title="海外",AXN Spin
@@ -2415,6 +2405,8 @@ http://181.119.66.28:8081/AZTECA-DEPORTES-HD/index.m3u8
 https://mdstrm.com/live-stream-playlist/65a1d2fd7e7f14355550d570.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="海外",Azteca Internacional
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="海外",Azteca Uno
+http://38.44.109.41:8003/play/a033/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qWIZNEc.png" group-title="海外",Azzurra TV
 https://ed05.top-ix.org/avtvlive/azzurra/streaming/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/B1_TV_logo.svg/960px-B1_TV_logo.svg.png" group-title="海外",B1
@@ -4163,6 +4155,10 @@ https://fs.uplink.kz/karusel/mono.m3u8?token=onlinetv
 https://acceso.mediosdecostarica.com:3511/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/3227c06e-333b-4b1b-b657-3e3ab99ebd06-width200-quality90.jpeg" group-title="海外",Cartoon Classics
 https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="海外",Cartoon Network Latin America North Atlantic
+http://38.252.238.18:8000/play/a053/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="海外",Cartoon Network Latin America South Atlantic
+http://158.172.217.18:8000/play/a03a/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/CarubanTV%28Low-res%29.png" group-title="海外",Caruban TV
 https://stream.carubantv.id/hls/0/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X8BI1Md.png" group-title="海外",Casa Italia 53
@@ -4695,10 +4691,14 @@ https://dokagents.site/live/cinemaraton/mono.m3u8
 https://hls02ns.antenaplay.ro/hls/cinemaraton-plus-hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D2qNVZ7.png" group-title="海外",CinemaWorld
 http://nmk.ioapk.com:5050/4gtv-live069/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/960px-Cinemax_2016.svg.png" group-title="海外",Cinemax West
+http://23.237.104.106:8080/USA_CINEMAX_WEST/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Cinemax_Classics_Logo.png/960px-Cinemax_Classics_Logo.png" group-title="海外",Cinemax Classics
 http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Cinemax_Hits_Logo.png/960px-Cinemax_Hits_Logo.png" group-title="海外",Cinemax Hits
 http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cZWoJWD.png" group-title="海外",Cinemax Latin America
+http://38.65.175.84:8000/play/a093/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y4Wgq8I.png" group-title="海外",CinePride
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2223
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/RJ49IeJve4VPALBXqrqJGeAYOEoLQIZZ4zWwtJhofisng6ZYwGemZ-VXCx9ZQ-u7fw" group-title="海外",Cinerama Television
@@ -5045,6 +5045,8 @@ https://jmp2.uk/plu-61c0989431084d0007eab12d.m3u8
 https://jmp2.uk/plu-64f8a408bd341e000818fcda.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uENch0P.png" group-title="海外",Comedy Central Animation
 https://jmp2.uk/plu-64f8a949f5b5e4000862467c.m3u8
+#EXTINF:-1 tvg-logo="https://comcastadvertising.com/wp-content/uploads/2021/10/Comedy-Central-White.png" group-title="海外",Comedy Central Brasil
+https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6xTD3G8.png" group-title="海外",Comedy Central en Espanol
 https://jmp2.uk/plu-5cf96dad1652631e36d43320.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" group-title="海外",Comedy Central Latin America
@@ -5681,6 +5683,8 @@ https://amg00353-amg00353c40-xumo-us-4839.playouts.now.amagi.tv/playlist.m3u8
 https://br.conectmy.com.br/DespertarTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hywjKNo.jpg" group-title="海外",Despierta TV
 https://video2.lhdserver.es/despiertatv/live.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Destination_America_logo.svg/960px-Destination_America_logo.svg.png" group-title="海外",Destination America
+http://23.237.104.106:8080/USA_DESTINATION_AMERICA/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/660d6bc10cd4630008f4a25a/colorLogoPNG.png" group-title="海外",Det sene show med Christian Fuhlendorff
 https://jmp2.uk/plu-660d6bc10cd4630008f4a25a.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/629a066860ef810008267b70/solidLogoPNG.png?w=512" group-title="海外",Detective Conan
@@ -5797,6 +5801,10 @@ http://185.227.34.179:8080/disco-polo-music/index.m3u8
 https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wr2bLaA.png" group-title="海外",Discovering China
 https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png" group-title="海外",Discovery Channel Latin America
+http://45.171.64.30:6060/play/a032/index.m3u8
+#EXTINF:-1 group-title="海外",Discovery Kids Latin America Mexico
+http://38.65.175.84:8000/play/a0an/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Discovery_Turbo_2025.svg/1920px-Discovery_Turbo_2025.svg.png" group-title="海外",Discovery Turbo
 http://41.205.93.154/ESPNNEWS/index.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Disha_tv.png" group-title="海外",Disha TV
@@ -6161,6 +6169,8 @@ https://copacotf.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvacc
 https://gist.githubusercontent.com/iptvonlinetv/cf56ccf36d1c0827e4dc470db7b7912d/raw/066b1c9755b2496805575f16d413bd1207ca8117/udp315.520.789:8060.m3u8
 #EXTINF:-1 tvg-logo="https://hosting.renderforestsites.com/35126779/1659328/media/1058391c8059a0d092426e145d55951b.png" group-title="海外",E International Europe
 https://gist.githubusercontent.com/iptvonlinetv/cf56ccf36d1c0827e4dc470db7b7912d/raw/066b1c9755b2496805575f16d413bd1207ca8117/udp120.510.450:6060.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TWFDkap.png" group-title="海外",E
+http://57.128.231.171:8080/273/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TWFDkap.png" group-title="海外",E! East
 http://23.237.104.106:8080/USA_E/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9F7VYDM.png" group-title="海外",E! Keeping Up
@@ -7157,6 +7167,8 @@ http://str2.iptvhd.ru:8080/FoodChannel/index.m3u8
 https://mumt03.tangotv.in/Dsly5z3HFOODFOOD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gxCYAwH.png" group-title="海外",FoodTime
 http://str2.iptvhd.ru:8080/Eda/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zOWog5j.png" group-title="海外",Foodxp
+https://techtraveleat.in/stream.m3u8?id=foodxp
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qsLLyn4.png" group-title="海外",Foot+
 http://145.239.5.177/556a/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pEuaZVx.png" group-title="海外",Football
@@ -8139,10 +8151,10 @@ https://freem3u.xyz/api/live/play.m3u8?vid=9856
 https://lds-timeline-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="海外",History Latin America
 http://15.204.246.24:8080/HistoryHD/index.m3u8
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143133_ld_h15_aa.png?lock=720x540" group-title="海外",History TV18
+https://techtraveleat.in/stream.m3u8?id=historytv18eng
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143132_ld_h15_aa.png?lock=720x540" group-title="海外",History TV18
 http://51.75.127.199:3141/historytv18/index.m3u8
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143133_ld_h15_aa.png?lock=720x540" group-title="海外",History TV18
-https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/960px-History_%282021%29.svg.png" group-title="海外",History Ukraine
 http://dtv.vol.net.ua/History_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jl3MNPe.png" group-title="海外",Hit
@@ -8717,6 +8729,8 @@ https://jmp2.uk/plu-5dcde27ffae9520009c0c75a.m3u8
 https://jmp2.uk/plu-5cf96b8f4f1ca3f0629f4bf1.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6683cd2fca74680008772545/colorLogoPNG_1747399523793.png" group-title="海外",Investigation by Pluto TV
 https://jmp2.uk/plu-6683cd2fca74680008772545.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png" group-title="海外",Investigation Discovery Latin America South
+http://38.65.175.84:8000/play/a0ch/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.uc.assets.prezly.com/92770c71-9d6f-400f-8311-38e9cfec52c2/InWild_landscape-green.png" group-title="海外",INWILD
 https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.uc.assets.prezly.com/f12e798d-6da4-46e1-8ec5-e391d6762659/InWonder_portrait-purple.png" group-title="海外",InWonder
@@ -9778,7 +9792,7 @@ https://streamlov.alsolnet.com/hermandadsalsera/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lahoratv.org/imagen/lahora.jpeg" group-title="海外",La Hora TV
 https://edge.enhdtv.com/8206/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tdtparatodos.tv/sites/default/files/la_kalle.png" group-title="海外",La Kalle
-https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8
+http://200.122.223.13:55000/play/la-kalle-tdt/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I0nzI1y.png" group-title="海外",La Melinkana TV
 https://v1.tustreaming.cl/melinkana/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0aoI5Zd.jpeg" group-title="海外",La Metro TV
@@ -10510,7 +10524,7 @@ http://200.7.219.221:8088/live/livetv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4cg51eE.png" group-title="海外",Marga Marga TV
 https://v1.tustreaming.cl/margamargatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GylOPxE.png" group-title="海外",Maria Vision
-https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
+http://200.122.223.13:55000/play/a022/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fdx5YXi.png" group-title="海外",Maria Vision
 https://1601580044.rsc.cdn77.org/live/_jcn_/amls:CHANNEL_2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gP3XAlV.jpeg" group-title="海外",Maria Vision Italia
@@ -10747,6 +10761,8 @@ https://wahyu1ptv.pages.dev/MDTV-HD.m3u8
 https://jmp2.uk/plu-63e3b33e8795f300087e6a46.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gtUFmCD.png" group-title="海外",Med Muzik
 http://54.36.110.140/live3/live3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ejGeXPD.png" group-title="海外",Med.TV
+https://med-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-hls-aes128-medtv-1-restreaming/bitok/eyJzdGlkIjoiMGUzYjU2OWQtYTY3NC00ZDQxLThmZmMtNjA2NWU5YzMwNTViIiwibWt0IjoiaXQiLCJjaCI6IjUiLCJwdGYiOjV9/hls/main.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PlvaDIa.png" group-title="海外",Medeniyyet TV
 https://str.yodacdn.net/medeniyyettele/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a20DHnj.png" group-title="海外",Medi1TV Afrique
@@ -10959,6 +10975,8 @@ http://51.254.199.122:8080/MIKUBATV/index.m3u8
 https://www.milenial.news/salida/milenial.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TG1T5Oh.png" group-title="海外",Milenio Television
 https://jmp2.uk/plu-652e922db4b047000825f975.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S1SnpoA.png" group-title="海外",Military History
+https://frndly.keralive.workers.dev/v1/master/840a24ccd7c75076211d060179b3ad0c64fdc6ca/militaryhistory_live_nr/ab44a8245afe413db1169317ee5cda08/index.m3u8?type=ae2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sfNL6Bv.png" group-title="海外",Millenium 109 FM
 https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hUjLRLy.png" group-title="海外",Millet
@@ -11092,7 +11110,7 @@ https://cdn4.skygo.mn/live/disk1/MNB2/DASH-FTA/MNB2.mpd
 #EXTINF:-1 tvg-logo="https://www.mongolsat.mn/assets/img/channel/22.png" group-title="海外",MNB World
 https://cdn4.skygo.mn/live/disk1/MNB_World/DASH-FTA/MNB_World.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SK8pjQy.png" group-title="海外",MNCTV
-https://mncmedia.malingtv.workers.dev/mnctv.m3u8
+http://202.150.172.59/MNCTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L4cD18H.png" group-title="海外",MNM
 https://live-radio-cf-vrt.akamaized.net/groupa/live/bac277a1-306d-44a0-8e2e-e5b9c07fa270/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/960px-MyNetworkTV_2D_Logo.svg.png" group-title="海外",MNT WCIV
@@ -11347,6 +11365,8 @@ https://tvcdn01.esilnet.kz/tv/mtrk/index.m3u8
 https://edge1.socialsmart.tv/muglaturk/bant1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/21/MTV2_logo_2013.svg/960px-MTV2_logo_2013.svg.png" group-title="海外",MTV2
 http://198.58.104.90:8989/mtv2/index.m3u8
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MTV/images/LOGO_HD/image.png" group-title="海外",MTV
+https://yupp-music.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png" group-title="海外",MTV
 http://57.128.231.171:8080/227/index.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MTV/images/LOGO_HD/image.png" group-title="海外",MTV
@@ -11355,8 +11375,6 @@ http://51.75.127.199:3141/mtvhd/index.m3u8
 http://99.27.51.147:8080/MTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png" group-title="海外",MTV
 https://ma.anixa.tv/clips/stream/mtv/playlist.php
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MTV/images/LOGO_HD/image.png" group-title="海外",MTV
-https://da86m1sqpm3o0.cloudfront.net/28072023/smil:mtvindia.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png" group-title="海外",MTV
 http://23.237.104.106:8080/USA_MTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f6108d8cc331900075e98e4/colorLogoPNG.png" group-title="海外",MTV Are you the One
@@ -12040,7 +12058,7 @@ https://mumt05.tangotv.in/87NeALx2NEPAL1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rqEyzjE.png" group-title="海外",Nesiha TV
 https://stream.cisk.tech/nasihatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K4Uve1n.png" group-title="海外",NET
-https://stream.smashmalta.com:25463/live/webplayer/livestream/22.m3u8
+http://80.79.6.221:25461/smash/public/22
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IhJ0BjF.png" group-title="海外",NET TV
 http://45.134.141.161:2200/ARG/Net_TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SdVrpzY.png" group-title="海外",Netalkole TV
@@ -13165,8 +13183,6 @@ https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8
 https://hls.oxir.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3801-294x165-FFFFFF.jpg" group-title="海外",OxiTV
 https://streamunoapp.com:3520/live/oxitvcanal36live.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Oxygen_TV_%282017_Logo%29.svg/960px-Oxygen_TV_%282017_Logo%29.svg.png" group-title="海外",Oxygen
-http://198.58.104.90:8989/oxygen/index.m3u8
 #EXTINF:-1 tvg-logo="https://oxygenmusic.hu/static/media/logo.png" group-title="海外",Oxygen Music
 https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t0Aq3UD.png" group-title="海外",Ozdi Varosi TV
@@ -13288,7 +13304,7 @@ https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk3/_definst_/live/video/hk3_d
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mksEgwx.png" group-title="海外",Parlamentsfernsehen 4
 https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk4/_definst_/live/video/hk4_de.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/Logo_of_the_Parliament_of_Malta.png" group-title="海外",Parliament of Malta
-https://stream.smashmalta.com:25463/live/webplayer/livestream/23.m3u8
+http://80.79.6.221:25461/smash/public/23
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OD7YKuz.jpeg" group-title="海外",Parliament TV
 https://cdn4.skygo.mn/live/disk1/Parlament/DASH-FTA/Parlament.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2aHW4q7.png" group-title="海外",Parliament TV
@@ -14589,6 +14605,8 @@ http://stream.mcquack.net/198/index.m3u8
 http://88.212.15.19/live/prima_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/33XGMch.png" group-title="海外",Prima
 https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Prima/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/c/c6/Prima_Comedy_%282022-.n.v.%29.png" group-title="海外",Prima Comedy
+https://dokagents.site/live/primacomedy/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Prima_Cool_logo_zelen%C3%A9.png/960px-Prima_Cool_logo_zelen%C3%A9.png" group-title="海外",Prima Cool
 http://88.212.15.19/live/prima_cool_cz_avc/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Prima_COOL_SK_logo.png" group-title="海外",Prima Cool SK
@@ -15047,6 +15065,8 @@ https://d3k8wzt41aflvx.cloudfront.net/RAIP/Live.m3u8
 https://goliveafrica.media:9998/live/64873b6222c93/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eHNU2OQ.png" group-title="海外",Rainbow Ruby
 https://dt9mwqwe98q7o.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qWNSxq8.png" group-title="海外",Raizal TV
+http://200.122.223.13:55000/play/raizal-tv-ses-6/index.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_DIGITAL_PLUS/images/LOGO_HD/image.png" group-title="海外",Raj Digital Plus
 https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RajTV_Digital_plus/master_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z7fhhyX.png" group-title="海外",Raj Musix Kannada
@@ -15065,8 +15085,6 @@ https://mumt04.tangotv.in/m18aqlK4RAJNEWSMALAYALAM/index.m3u8
 https://mumt04.tangotv.in/m18aqlK4RAJNEWSTELUGU/index.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_TV/images/LOGO_HD/image.png" group-title="海外",Raj TV
 https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RAJTV/master_1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dlsv1sl.png" group-title="海外",Rajawali TV
-http://202.150.172.59/RajawaliTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MBm2gPz.jpeg" group-title="海外",Rajdhani TV
 https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6Cx22ya.png" group-title="海外",Rajeen TV
@@ -15428,7 +15446,7 @@ https://segment.yuppcdn.net/050522/reporter/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/Reportero-100x75-1.png" group-title="海外",Reportero TV
 https://streamrd.cloud:5443/LiveApp/streams/J3E3REmLNBzirS9A10575071547538.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RSYMDOT_BANGLA/images/LOGO_HD/image.png" group-title="海外",Republic Bangla
-https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-456368/main.m3u8
+https://streams.tangotv.in/RBANGLA/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143724_ld_h15_aa.png?lock=720x540" group-title="海外",Republic Bharat
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/RepublicBharat.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RSYMDOTKANNADA/images/LOGO_HD/image.png" group-title="海外",Republic Kannada
@@ -17985,12 +18003,18 @@ https://broadcast.tbnpacific.org.au:4430/stream/TBNPacificTV/playlist.m3u8
 https://live-tbn-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/tbn-live/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PhbrGyM.png" group-title="海外",TBN Ukraine
 https://5d23269b3ec0c.streamlock.net/WEB_Ukraine24/ngrp:Ukraine24.stream-adaptive/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/TBS_2020.svg/960px-TBS_2020.svg.png" group-title="海外",TBS
+http://193.254.245.162/TBS/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jIZ9TlO.png" group-title="海外",TBS
+https://tbs5.mov3.co/hls/tbs.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iOnWS6V.png" group-title="海外",TBS TV
 https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/okK02EN.png" group-title="海外",TC Television
 http://45.224.97.181:9999/TC/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aMuMVvB.png" group-title="海外",TCM 10
 https://live.tcm10.com.br/tcm10hd/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QpDkrmT.png" group-title="海外",TCM Latin America South
+http://45.171.64.30:6060/play/a014/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iYFWG06.png" group-title="海外",TCS+
 https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J5iRMgi.png" group-title="海外",TCT
@@ -18062,7 +18086,7 @@ https://live.tele7music.ro/hls/stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XymK2PR.png" group-title="海外",Tele Abruzzo
 http://uk4.streamingpulse.com:1935/TeleabruzzoTV/TeleabruzzoTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gBZFZNv.png" group-title="海外",Tele Amiga
-https://liveingesta118.cdnmedia.tv/teleamigatvlive/smil:dvrlive.smil/playlist.m3u8
+http://200.122.223.13:55000/play/tele-amiga-ses-6/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G1pJZkC.png" group-title="海外",Tele Antillas
 http://45.171.108.253:8888/TELEANTILLAS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xeTtup8.png" group-title="海外",Tele Boston
@@ -18981,6 +19005,8 @@ http://flussonic.linkintel.ru/tnt4/index.m3u8
 http://str2.iptvhd.ru:8080/TNT_4/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SjdOaya.png" group-title="海外",TNT4 International
 https://fs.uplink.kz/tnt4/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png" group-title="海外",TNT
+http://193.254.245.162/TNT-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T4A6rEI.png" group-title="海外",TNT
 http://stream.mcquack.net/135/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T4A6rEI.png" group-title="海外",TNT
@@ -18993,10 +19019,14 @@ https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8
 http://05cea6e8.ucomist.net/iptv/VK7YCHHWNDD8XC/15230/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/irTDbpn.png" group-title="海外",TNT Kids TV
 https://restreamer1.tnt.ba/hls/tntkids.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png" group-title="海外",TNT Latin America
+http://45.171.64.30:6060/play/a03i/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TNT_Novelas_2025.svg/1920px-TNT_Novelas_2025.svg.png" group-title="海外",TNT Novelas
 http://190.93.224.42/TNT-NOVELAS/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TNT_Novelas_2025.svg/1920px-TNT_Novelas_2025.svg.png" group-title="海外",TNT Novelas Brazil
 http://45.162.64.114/TNT_NOVELAS/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="海外",TNT Series Latin America
+http://168.196.127.137:6001/play/a095/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5eVHam.png" group-title="海外",TNTV
 https://tntv-samsung-fr.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ijA1zDw.png" group-title="海外",TNV-Planet
@@ -19043,6 +19073,8 @@ http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
 http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aSjhZK7.png" group-title="海外",Toonami Aftermath West
 http://api.toonamiaftermath.com:3000/pst/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3yXRbQy.png" group-title="海外",Tooncast
+http://38.134.250.110:8000/play/a01t/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JMnxswq.png" group-title="海外",ToonGoggles
 https://amg01329-otterainc-toongoggles-samsungau-ad-4c.amagi.tv/playlist/amg01329-otterainc-toongoggles-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/7c59e962-086b-4d64-afb3-7f83ca8c3377-width200-quality90.jpeg" group-title="海外",TOP Barca
@@ -19343,6 +19375,8 @@ http://58.8.186.128:10003/bysid/2325
 http://58.8.186.128:10004/bysid/2418
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MfLY3LF.png" group-title="海外",True Thai Film
 http://58.8.186.128:10003/bysid/2326
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/960px-TruTV_2014.svg.png" group-title="海外",truTV
+http://23.237.104.106:8080/USA_TRUTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VZiaoqz.png" group-title="海外",Trzic TV
 https://vpn.video2go.live:444/trzic/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/34RINpb.png" group-title="海外",Tsargrad TV
@@ -19839,6 +19873,8 @@ https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8
 https://stream.oursnetworktv.com/latin/tvguanajuato/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8PErNBT.png" group-title="海外",TV Guara
 https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eDNzwK0.png" group-title="海外",TV Guarapari
+https://video.welltecnologia.com.br/tvguarapari/tvguarapari/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ptQyOMi.png" group-title="海外",TV Higuey Digital
 https://host.streamingnation.live/p/3467/live/tvhigueylive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eThe0io.png" group-title="海外",TV Hispanic
@@ -20317,6 +20353,8 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_576.m3u8
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/txV8lw0.png" group-title="海外",TVenLinea
 https://srt.tvdatta.com/tvenlinea/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QX5DVUB.png" group-title="海外",TVes
+https://vs20.live.opencaster.com/tves_5fd18b1e/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yFy6gxg.png" group-title="海外",TVG2
 https://crtvg-tvg2.flumotion.cloud/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iOdHgPd.png" group-title="海外",TVGE
@@ -20359,10 +20397,10 @@ https://www.latinasat.com.br/hls/live/stream/index.m3u8
 https://cache1a.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY4MTg5NzQyIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy90dm0zL2Jyb3dzZXItSExTOC8iLCJzZXNzaW9uX2Nkbl9pZCI6IjNhZmJlZTIxMmU1NjUyODEiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzEwLjAuMjI5LjE5Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiI1MyIsInNvdXJjZXMiOls0OF19.N29uj_Xo3YmdQUboW5e45wx4lUey-utXtC6RpbbCGgJ8uCl2ngejd8tu_S-3tv7s02OtkHo4Rkf7mitOx_7lcA==/live/eds/tvm3/browser-HLS8/tvm3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3v6iZE6.png" group-title="海外",TVM 3
 http://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V0iMsED.png" group-title="海外",TVM
+http://80.79.6.221:25461/smash/public/19
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9dwZoxz.png" group-title="海外",TVM
 https://streams.kanade.cl/canaltvm/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V0iMsED.png" group-title="海外",TVM
-https://stream.smashmalta.com:25463/live/webplayer/livestream/19.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vqv7R3Y.png" group-title="海外",TVM
 http://196.28.226.121:1935/live/smil:Channel1.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jN5k8Ob.png" group-title="海外",TVM Cordoba
@@ -20735,8 +20773,6 @@ https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223
 https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jjGpZf4T/UCV-Logo.png" group-title="海外",UCV TV
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://mt.media/upload/iblock/2b3/2b3cf99141bf7f99cda377eec62ec084.png" group-title="海外",UDAR
-http://5.188.159.128:8070/udar/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QKvINA6.png" group-title="海外",UDG TV
 https://liveos.bytecazt.com/udgtv/streams/cfprivq23akg00a7ke2g_d306m7q9io6g00fsq3cg_.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tf0BF2q.jpg" group-title="海外",UEBI TV Online
@@ -21123,6 +21159,8 @@ https://jmp2.uk/plu-66abefe5d2d50d00082c7d12.m3u8
 https://live.obslivestream.com/viaaltomayomux/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FiptbGQ.png" group-title="海外",Via Television
 https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8
+#EXTINF:-1 tvg-logo="https://web02.antik.sk/assets/img/channels/247e7974b5eeaeda06744f312d2bbc51.svg" group-title="海外",VIA TV
+http://88.212.15.19/live/via_tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/VIAX-oficial.png" group-title="海外",Via X
 http://45.170.130.224:8000/play/a025/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ua6rOXo.png" group-title="海外",ViaATV
@@ -22291,6 +22329,12 @@ https://live.smotrim.ru/vgtrk/0/russia1-hd/index.m3u8
 https://edge55.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yb3xjOZ.png" group-title="海外",2
 http://fta.hugo.mk:1935/live/tvhugo/stream/2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1WqIPOB.png" group-title="海外",S
+http://ott-cdn.ucom.am/s19/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ml3qqOF.png" group-title="海外",S
+https://streaming102.interskytech.com/live/618.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/RTR_Planeta_Europe.png" group-title="海外",S
+https://player.smotrim.ru/iframe/stream/live_id/63251
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ru/a/ac/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%C2%AB%D0%AE%C2%BB_%28%D1%81_3_%D1%81%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8F_2018_%D0%B3%D0%BE%D0%B4%D0%B0%29.png" group-title="海外",S
 https://strm.yandex.ru/kal/utv/utv0.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vhyMb9D.png" group-title="海外",S
@@ -22325,12 +22369,6 @@ http://ott-cdn.ucom.am/s54/index.m3u8
 https://streaming.televizor-24-tochka.ru/live/14.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A6Cqsom.jpeg" group-title="海外",S
 https://spas.mediacdn.ru/cdn/spas/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/y9bpqUD.png" group-title="海外",S
-http://ott-cdn.ucom.am/s52/04.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/e8wlMIt.png" group-title="海外",S
-http://ott-cdn.ucom.am/s88/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rS11zVB.png" group-title="海外",S
-https://streaming.televizor-24-tochka.ru/live/19.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Belarus_5_logo.svg/960px-Belarus_5_logo.svg.png" group-title="海外",5
 https://edge55.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rzPQ9Iz.png" group-title="海外",5
@@ -23323,8 +23361,6 @@ https://www.twitch.tv/teleroma_56
 https://www.twitch.tv/teleradiostereo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WxtftlO.png" group-title="海外",NHK E
 https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd02#.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jIZ9TlO.png" group-title="海外",TBS
-https://tbs5.mov3.co/hls/tbs.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t0uZcSR.png" group-title="海外",NHK BS
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs02#.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uvPpFo5.png" group-title="海外",NHK BSP(4K)
@@ -23491,6 +23527,8 @@ https://lowa8026-cmyk.github.io/PL/TVP2.php.m3u8
 https://iptv.prosto.tv/ch171/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TVP_Kultura_2_%282020%29.svg/500px-TVP_Kultura_2_%282020%29.svg.png" group-title="海外",TVP Kultura 2
 https://www.tvkaista.net/stream-forwarder/get.php?x=TVPKultura2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/4fun.tv_Logo_%282017%29.svg/500px-4fun.tv_Logo_%282017%29.svg.png" group-title="海外",4fun.tv S
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/RTP1_-_Logo_2016.svg/500px-RTP1_-_Logo_2016.svg.png" group-title="海外",RTP1
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Rtp3.png" group-title="海外",RTP3
@@ -24191,8 +24229,6 @@ https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 https://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/Astro AOD.png" group-title="海外",Astro AOD
 http://php.jdshipin.com/TVOD/iptv.php?id=aod
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/Bloomberg Asia.png" group-title="海外",Bloomberg Asia
-https://epg.pw/stream/d2edf469b9079064a283f4b0811cbf6f2597ebbb3d08dcf77036a4b5a791b7cf.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CTi News.png" group-title="海外",CTi News
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/ET Mall 60.png" group-title="海外",ET Mall 60
