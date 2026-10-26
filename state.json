@@ -39,11 +39,6 @@
     "last_count": 2046,
     "last_ok": "2026-10-25"
   },
-  "https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u": {
-    "fail_streak": 0,
-    "last_count": 120,
-    "last_ok": "2026-10-25"
-  },
   "https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt": {
     "fail_streak": 0,
     "last_count": 305,
