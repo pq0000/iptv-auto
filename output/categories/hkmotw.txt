@@ -39,10 +39,9 @@ TVBS,http://31.43.191.125:8080/restream/restream/34915
 东森综合,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8524/.m3u8
 东森综合,http://iptv.4666888.xyz/iptv2A.php?id=58
 福建漳州六鳌翡翠湾,http://gcalic.v.myalicdn.com/gc/fcw01_1/index.m3u8?contentid=2820180516001
-凤凰傳奇,https://live.yang-1989.eu.org/bilibili/27404696
 非凡-迪安,https://live.yang-1989.eu.org/huya/940213
 东方明珠东方朔,https://live.yang-1989.eu.org/bilibili/26351451
-纬来体育,https://epg.pw/stream/4f18dfe0593db5c686eb64ae8edaf2a9202d4d46bdc9bbde2cee27708e12ea01.m3u8
+纬来体育,https://epg.pw/stream/ab6df63b64d0cc44a1f4f029ed847a26fa54a7aebd455578fb05a63f02c22f4b.m3u8
 香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=8ee59707fee3ef96c922e680-167055218938751&wsIPSercert=d24f6d7c9d3646d9533d492d5209384b&wsMonitor=0
@@ -193,7 +192,7 @@ ViuTV,http://r.jdshipin.com/TcKr2
 华视,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
 华视,http://31.43.191.125:8080/restream/restream/34887
 华视新闻,http://zby.lskk.top/cdnlive.php?mode=play&id=f33de20f378bbcb4bbd1cc681a50458b&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-纬来体育台,https://epg.pw/stream/ab6df63b64d0cc44a1f4f029ed847a26fa54a7aebd455578fb05a63f02c22f4b.m3u8
+纬来体育台,https://epg.pw/stream/4f18dfe0593db5c686eb64ae8edaf2a9202d4d46bdc9bbde2cee27708e12ea01.m3u8
 纬来体育台,https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5edef2b25.m3u8
 纬来体育台,http://zby.lskk.top/cdnlive.php?mode=play&id=727fa47e10abaa40752552235048a554&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
 纬来体育台,http://8.138.7.223/【公众号：榴芒电视】/wlty.m3u8
@@ -223,7 +222,7 @@ ViuTV,http://r.jdshipin.com/TcKr2
 易中天品三国,https://yg.ygbox.de5.net/huya.php?id=11602032
 凤凰古城东关门,https://gcalic.v.myalicdn.com/gc/fhgcdgm_1/index.m3u8
 凤凰古城南华山,https://gcalic.v.myalicdn.com/gc/fhgcdnhs_1/index.m3u8
-经典香港电影,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/virtuallive/5100180869/75/index.m3u8?msisdn=2026102820013541ec465f52c142489d204892360c7b91&mdspid=&spid=800033&netType=0&sid=5500242089&pid=2028597139&timestamp=20261028200135&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=625703337&ParentNodeID=-99&assertID=5500242089&client_ip=171.8.79.254&SecurityKey=20261028200135&promotionId=&mvid=5100180869&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=b5a95475033c657d0af070b9fd762305
+经典香港电影,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/virtuallive/5100180869/75/index.m3u8?msisdn=20261029200137366c1811bf7846afa1152f61703a843c&mdspid=&spid=800033&netType=0&sid=5500242089&pid=2028597139&timestamp=20261029200137&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=625703337&ParentNodeID=-99&assertID=5500242089&client_ip=171.8.79.254&SecurityKey=20261029200137&promotionId=&mvid=5100180869&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=7f2b2e0c0343770c932016eac0d73dc5
 翡翠台,http://iptv.4666888.xyz/iptv2A.php?id=34
 TVB千禧经典,http://iptv.4666888.xyz/iptv2A.php?id=22
 TVBS新闻,http://iptv.4666888.xyz/iptv2A.php?id=43

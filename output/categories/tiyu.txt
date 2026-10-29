@@ -1,29 +1,35 @@
+CCTV-5 体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+CCTV-5 体育,http://74.91.26.218:82/live/cctv5hd.m3u8
+CCTV-5 体育,http://107.150.60.122/live/cctv5hd.m3u8
+CCTV-5 体育,http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
+CCTV-5 体育,http://153.0.171.163:85/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5 体育,http://183.250.156.180:9999/newlive/live/hls/5/live.m3u8
+CCTV-5 体育,http://112.46.85.60:8009/hls/503/index.m3u8
+CCTV-5 体育,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv5hdnew/600/index.m3u8?msisdn=2026102922025325ef3ffe01e846ef82b665883b8b6a62&mdspid=&spid=699004&netType=0&sid=5500516171&pid=2028597139&timestamp=20261029220253&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=641886683&ParentNodeID=-99&assertID=5500516171&client_ip=171.8.79.254&SecurityKey=20261029220253&promotionId=&mvid=5102048712&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=b5138e2e10ae82f8ee4db0549386d4a4
 CCTV-5 体育,http://kkk.888.3116598.xyz/api.php?n=tttt&id=7saWCa&tk=FgM0vQMejxvG
 CCTV-5 体育,http://kkk.888.3116598.xyz/api.php?n=tttt&id=WCkN7r&tk=FgM0vQMejxvG
 CCTV-5 体育,http://kkk.888.3116598.xyz/api.php?n=tttt&id=un8Qbv&tk=FgM0vQMejxvG
 CCTV-5 体育,http://kkk.888.3116598.xyz/api.php?n=tttt&id=1A4eT4&tk=FgM0vQMejxvG
 CCTV-5 体育,http://183.11.239.36:808/hls/93/index.m3u8
 CCTV-5 体育,http://113.15.109.216:59901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-5 体育,http://173.208.212.130:8181/720p/cctv5.m3u8
 CCTV-5 体育,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv5hdnew/600/index.m3u8?msisdn=2026102822025361fee209460a4d36b45b005ae6c3d050&mdspid=&spid=699004&netType=0&sid=5500516171&pid=2028597139&timestamp=20261028220253&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=641886683&ParentNodeID=-99&assertID=5500516171&client_ip=171.8.79.254&SecurityKey=20261028220253&promotionId=&mvid=5102048712&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=0f8b30d92fcc9066e7dca9d8600d635c
 CCTV-5 体育,http://192.168.123.1:23234/rtp/239.3.1.173:8001
 CCTV-5 体育,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226469/1.m3u8?
 CCTV-5 体育,http://gmxw.7766.org:808/hls/93/index.m3u8
 CCTV-5 体育,http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
 CCTV-5 体育,http://kkk.888.3116598.xyz/api.php?n=tttt&id=rXZ2Ua&tk=FgM0vQMejxvG
-CCTV-5 体育,rtp://239.3.1.173:8001
-CCTV-5 体育,http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
-CCTV-5 体育,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv5hdnew/600/index.m3u8?msisdn=20261027220254097ba5cb5400447f8e29c670a32bbe35&mdspid=&spid=699004&netType=0&sid=5500516171&pid=2028597139&timestamp=20261027220254&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=641886683&ParentNodeID=-99&assertID=5500516171&client_ip=171.8.79.254&SecurityKey=20261027220254&promotionId=&mvid=5102048712&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=42393c0025dc4d6908280375c6213b6b
-CCTV-5 体育,http://kkk.888.3116598.xyz/api.php?n=tttt&id=Gd7JGa&tk=FgM0vQMejxvG
-CCTV-5 体育,http://kkk.888.3116598.xyz/api.php?n=tttt&id=zMqirA&tk=FgM0vQMejxvG
-CCTV-5 体育,http://61.136.172.236:9901/tsfile/live/0005_1.m3u8
-CCTV-5 体育,http://58.57.40.22:9901/tsfile/live/1004_1.m3u8
+CCTV-5+ 体育赛事,http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
+CCTV-5+ 体育赛事,http://kkk.888.3116598.xyz/api.php?n=tttt&id=OWbZsv&tk=FgM0vQMejxvG
+CCTV-5+ 体育赛事,http://120.76.248.139/live/bfgd/4200000246.m3u8
+CCTV-5+ 体育赛事,http://58.57.40.22:9901/tsfile/live/1005_1.m3u8
+CCTV-5+ 体育赛事,http://113.15.109.216:59901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5+ 体育赛事,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv5plusnew/600/index.m3u8?msisdn=2026102906025437d0b9ab375c420b8eeddf0c14f8dba2&mdspid=&spid=699004&netType=0&sid=5500516288&pid=2028597139&timestamp=20261029060254&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=641886773&ParentNodeID=-99&assertID=5500516288&client_ip=171.8.79.254&SecurityKey=20261029060254&promotionId=&mvid=5102048803&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=adf7e15df156c3940922c57dadd32871
+CCTV-5+ 体育赛事,http://45.192.97.170:8880/play/6.m3u8
 CCTV-5+ 体育赛事,http://kkk.888.3116598.xyz/api.php?n=tttt&id=0msREY&tk=FgM0vQMejxvG
 CCTV-5+ 体育赛事,http://kkk.888.3116598.xyz/api.php?n=tttt&id=UUAF8s&tk=FgM0vQMejxvG
 CCTV-5+ 体育赛事,http://kkk.888.3116598.xyz/api.php?n=tttt&id=UHwStw&tk=FgM0vQMejxvG
 CCTV-5+ 体育赛事,http://183.250.156.180:9999/newlive/live/hls/6/live.m3u8
 CCTV-5+ 体育赛事,http://cssbyd.imwork.net:8082/hls/6/index.m3u8
-CCTV-5+ 体育赛事,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv5plusnew/600/index.m3u8?msisdn=20261028060253b030dec5dfd744eb9e1c2cac95870ca9&mdspid=&spid=699004&netType=0&sid=5500516288&pid=2028597139&timestamp=20261028060253&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=641886773&ParentNodeID=-99&assertID=5500516288&client_ip=171.8.79.254&SecurityKey=20261028060253&promotionId=&mvid=5102048803&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=3a007603ab0e58952b9a3f4f2ff0d282
 CCTV-5+ 体育赛事,http://e1.woc.iiiya.cn:8888/rtp/239.61.2.171:9014
 CCTV-5+ 体育赛事,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EevWZ0zmguDsOY_Mf3SM5TA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 CCTV-5+ 体育赛事,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv5plusnew/600/index.m3u8?msisdn=20261028220254be4a03cf85454db99cac46bf91b3ab4d&mdspid=&spid=699004&netType=0&sid=5500516288&pid=2028597139&timestamp=20261028220254&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=641886773&ParentNodeID=-99&assertID=5500516288&client_ip=171.8.79.254&SecurityKey=20261028220254&promotionId=&mvid=5102048803&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=33df4ab1ea26ce1e4bf074aa26508001
@@ -32,14 +38,15 @@ CCTV-5+ 体育赛事,http://kkk.888.3116598.xyz/api.php?n=tttt&id=hWGyoN&tk=FgM0
 CCTV-5+ 体育赛事,http://61.136.172.236:9901/tsfile/live/0016_1.m3u8
 CCTV-5+ 体育赛事,http://39.165.39.49:85/tsfile/live/1089_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-5+ 体育赛事,rtp://239.3.1.130:8004
-CCTV-5+ 体育赛事,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv5plusnew/600/index.m3u8?msisdn=2026102722025497da0e3ab7664ffea49ae624b242565e&mdspid=&spid=699004&netType=0&sid=5500516288&pid=2028597139&timestamp=20261027220254&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=641886773&ParentNodeID=-99&assertID=5500516288&client_ip=171.8.79.254&SecurityKey=20261027220254&promotionId=&mvid=5102048803&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=8efa47ffeed481489d8fdc34b44862eb
-CCTV-5+ 体育赛事,https://php.jdshipin.com/TVOD/iptv.php?id=cctv5p
-CCTV-5+ 体育赛事,http://192.168.123.1:23234/rtp/239.3.1.130:8004
-CCTV-5+ 体育赛事,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8?
-CCTV-5+ 体育赛事,http://223.78.65.165:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-5+ 体育赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 雨说体育徐静雨,https://live.yang-1989.eu.org/bilibili/21669525
-华少体育解说,https://live.yang-1989.eu.org/douyin/75604127264
+千益体育,https://live.yang-1989.eu.org/douyin/TYW804728
+精品体育,https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e50346040e226.m3u8
+精品体育,https://epg.pw/stream/94ed0232b61ce8d89883160a4cdfbfc8f3225cae70ef8e17d93eec249a3c8ad6.m3u8
+精品体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
+精品体育,https://epg.pw/stream/866a097a0907c9832440f8df38272dd555abf05200dfbafcc137e214c9b30ca7.m3u8
+精品体育,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226978/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EEZy1Vmu4k2lYOlZCsti1BQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+足球频道,https://epg.pw/stream/c7df950876e6a1ceb8be74ee86f9f702cebbbae29f1d15124ef8f86fd43161cf.m3u8
+纬来体育,https://epg.pw/stream/ab6df63b64d0cc44a1f4f029ed847a26fa54a7aebd455578fb05a63f02c22f4b.m3u8
 风云剧场,http://zhancheng.x3322.net:6699/live/1082/index.m3u8
 风云剧场,http://1.82.144.44:4022/rtp/239.111.205.66:5140
 风云剧场,http://dassby.qqff.top:99/live/风云剧场/index.m3u8
@@ -48,21 +55,6 @@ CCTV-5+ 体育赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/32212256
 风云剧场,http://173.208.212.130:8181/720p/fyjc.m3u8
 风云剧场,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyjc
 风云剧场,http://183.11.239.36:808/hls/95/index.m3u8
-精品体育,https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e50346040e226.m3u8
-精品体育,https://epg.pw/stream/94ed0232b61ce8d89883160a4cdfbfc8f3225cae70ef8e17d93eec249a3c8ad6.m3u8
-精品体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
-精品体育,https://epg.pw/stream/866a097a0907c9832440f8df38272dd555abf05200dfbafcc137e214c9b30ca7.m3u8
-精品体育,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226978/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EEZy1Vmu4k2lYOlZCsti1BQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-纬来体育,https://epg.pw/stream/4f18dfe0593db5c686eb64ae8edaf2a9202d4d46bdc9bbde2cee27708e12ea01.m3u8
-风云音乐,http://rihou.cc:555/cqyx.php?id=fyyy
-风云音乐,http://1.82.144.44:4022/rtp/239.111.205.69:5140
-风云音乐,http://207.56.13.146:81/cdnlive/fyyy.m3u8
-风云音乐,https://live.264788.xyz/channel/fengyunyinyue?streamid=1b41fb9153cba3ee19bd5d1b323da27e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-风云音乐,https://live.264788.xyz/channel/fengyunyinyue?streamid=be37d16b874e7ba11dd383d7ecd75752&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-风云音乐,http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
-风云音乐,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyyy
-风云音乐,http://183.11.239.36:808/hls/99/index.m3u8
-风云音乐,http://dassby.qqff.top:99/live/风云音乐/index.m3u8
 风云足球,http://120.238.84.45:9901/tsfile/live/1087_1.m3u8?key=txiptv&playlive=1&authid=0
 风云足球,http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
 风云足球,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyzq
@@ -73,7 +65,16 @@ CCTV-5+ 体育赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/32212256
 高尔夫网球,http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
 高尔夫网球,http://207.56.13.146:81/cdnlive/gefwq.m3u8
 高尔夫网球,http://104.152.209.49:8181/720p/gefwq.m3u8
-纬来体育台,https://epg.pw/stream/ab6df63b64d0cc44a1f4f029ed847a26fa54a7aebd455578fb05a63f02c22f4b.m3u8
+风云音乐,http://rihou.cc:555/cqyx.php?id=fyyy
+风云音乐,http://1.82.144.44:4022/rtp/239.111.205.69:5140
+风云音乐,http://207.56.13.146:81/cdnlive/fyyy.m3u8
+风云音乐,https://live.264788.xyz/channel/fengyunyinyue?streamid=1b41fb9153cba3ee19bd5d1b323da27e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+风云音乐,https://live.264788.xyz/channel/fengyunyinyue?streamid=be37d16b874e7ba11dd383d7ecd75752&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+风云音乐,http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
+风云音乐,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyyy
+风云音乐,http://183.11.239.36:808/hls/99/index.m3u8
+风云音乐,http://dassby.qqff.top:99/live/风云音乐/index.m3u8
+纬来体育台,https://epg.pw/stream/4f18dfe0593db5c686eb64ae8edaf2a9202d4d46bdc9bbde2cee27708e12ea01.m3u8
 纬来体育台,https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5edef2b25.m3u8
 纬来体育台,http://zby.lskk.top/cdnlive.php?mode=play&id=727fa47e10abaa40752552235048a554&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
 纬来体育台,http://8.138.7.223/【公众号：榴芒电视】/wlty.m3u8
@@ -103,7 +104,6 @@ CCTV-5+ 体育赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/32212256
 睛彩篮球,rtp://239.3.1.126:8001
 睛彩篮球,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226565/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EKXl4MjVH6lXYRTccqcbi4w%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 睛彩篮球,http://192.168.123.1:23234/rtp/239.3.1.126:8001
-足球频道,https://epg.pw/stream/c7df950876e6a1ceb8be74ee86f9f702cebbbae29f1d15124ef8f86fd43161cf.m3u8
 辽宁体育,http://120.76.248.139/live/bfgd/4200000611.m3u8
 辽宁体育,http://119.29.233.26:1234/962067526
 辽宁体育,http://dassby.qqff.top:99/live/辽宁体育/index.m3u8
@@ -115,8 +115,8 @@ CCTV-5+ 体育赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/32212256
 山东体育,http://58.57.40.22:9901/tsfile/live/1020_1.m3u8
 安徽综艺体育,http://202.102.201.244:40022/rtp/238.1.79.41:4440
 体育休闲,rtp://239.3.1.243:8000
-陕西体育休闲频道,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/sxtyxx/50/20250804/index.m3u8?msisdn=202610282202579ac918c71f0e43958daa677bfde1d604&mdspid=&spid=600572&netType=0&sid=5910022189&pid=2028597139&timestamp=20261028220257&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909356&ParentNodeID=-99&assertID=5910022189&client_ip=171.8.79.254&SecurityKey=20261028220257&promotionId=&mvid=5900006712&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=cc4573c93b30a85ca04596df05f32ca7
-体育休闲频道,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/jstv/jstiyu/600/index.m3u8?msisdn=202610282203011c8dd6db0ff149939f796d112a03f8f5&mdspid=&spid=699067&netType=0&sid=5500260554&pid=2028597139&timestamp=20261028220301&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=626064707&ParentNodeID=-99&assertID=5500260554&client_ip=171.8.79.254&SecurityKey=20261028220301&promotionId=&mvid=5100186459&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=5077b0a41e42ef1ee6c9aa3c69f50cd3
+陕西体育休闲频道,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/sxtyxx/50/20250804/index.m3u8?msisdn=20261029220257e3b08117acf84eff9f055de90c95e4cf&mdspid=&spid=600572&netType=0&sid=5910022189&pid=2028597139&timestamp=20261029220257&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909356&ParentNodeID=-99&assertID=5910022189&client_ip=171.8.79.254&SecurityKey=20261029220257&promotionId=&mvid=5900006712&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=e1a8e714f6f36122f48d18acd11701ac
+体育休闲频道,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/jstv/jstiyu/600/index.m3u8?msisdn=202610292203018fcddaf8fa8d4263a5161d906b8191eb&mdspid=&spid=699067&netType=0&sid=5500260554&pid=2028597139&timestamp=20261029220301&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=626064707&ParentNodeID=-99&assertID=5500260554&client_ip=171.8.79.254&SecurityKey=20261029220301&promotionId=&mvid=5100186459&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=b7dac1ad2974c6829284adedbfae2970
 ACI Sport TV,https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
 Adjarasport 1,https://live20.bozztv.com/dvrfl05/gin-adjara/index.m3u8
 Africa 24 Sport,https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
@@ -157,7 +157,6 @@ CRTV Sports and Entertainment,https://live1.acangroup.org:1929/publiclive/crtv_s
 CT Sport,http://88.212.15.50/live/test_ctsport_25p/playlist.m3u8
 DD Sports,https://cdn.pishow.tv/ott/live/1161/master.m3u8
 DD Sports,https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
-Digi Sport 2,https://lbgo.bozztv.com/ssh101/ssh101/digisport222/playlist.m3u8
 DiviSport,http://stream.mcquack.net/457/index.m3u8
 DSports 2,http://187.102.208.209:8000/play/a0bq/index.m3u8
 DSports,http://38.187.7.252:8000/play/a03d/index.m3u8
@@ -240,6 +239,7 @@ Max Sport 1,http://213.91.179.28:8000/play/a0as
 Max Sport 2,http://213.91.179.28:8000/play/a0at
 Max Sport 3,http://213.91.179.28:8000/play/a0ar
 Max Sport 4,http://213.91.179.28:8000/play/a05n
+MEGOGO Sport,http://5.188.159.128:8070/megogo_sport/index.m3u8
 MNB Sport,https://live.mnb.mn/hls/mnb_sport.stream.m3u8
 More Than Sports TV,https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
 MRTV Sports,https://mrtvott.com/cache/MRTV-SPORT/master.m3u8
