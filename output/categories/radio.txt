@@ -1,8 +1,8 @@
-海南广播电视总台新闻频道,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/lnysj/50/20251225/index.m3u8?msisdn=2026103020025693e9c64e59a949759a03ce73200d2d7e&mdspid=&spid=600697&netType=0&sid=5910022326&pid=2028597139&timestamp=20261030200256&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=962067517&ParentNodeID=-99&assertID=5910022326&client_ip=171.8.79.254&SecurityKey=20261030200256&promotionId=&mvid=5900006789&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=7d9a54d3da4fea2f647b08baa672426b
-海南广播电视总台自贸频道,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/lnsh/50/20251225/index.m3u8?msisdn=20261030200256c37a2a82aeae42cf9c9831c56426b17e&mdspid=&spid=600697&netType=0&sid=5910022324&pid=2028597139&timestamp=20261030200256&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=962045226&ParentNodeID=-99&assertID=5910022324&client_ip=171.8.79.254&SecurityKey=20261030200256&promotionId=&mvid=5900006792&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=841a334816858abedd8e62c41d4b495e
-海南广播电视总台社会与法频道,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/lngg/50/20251225/index.m3u8?msisdn=20261030200256a266db77ef934524b2c1a7ebbdf488a7&mdspid=&spid=600697&netType=0&sid=5910022323&pid=2028597139&timestamp=20261030200256&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=962045223&ParentNodeID=-99&assertID=5910022323&client_ip=171.8.79.254&SecurityKey=20261030200256&promotionId=&mvid=5900006791&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=160ce11586b01b9aed28e26c03f4b140
-海南广播电视总台文旅频道,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/lntyxx/50/20251225/index.m3u8?msisdn=20261030200256f9d4bba1633e44f2be12bad08cc00ee5&mdspid=&spid=600697&netType=0&sid=5910022329&pid=2028597139&timestamp=20261030200256&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=962067526&ParentNodeID=-99&assertID=5910022329&client_ip=171.8.79.254&SecurityKey=20261030200256&promotionId=&mvid=5900006790&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=c48b90a3fa9a9d3d474817a4c63e3b88
-海南广播电视总台少儿频道,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/nxwl/50/20251225/index.m3u8?msisdn=202610302002579975f1c1116845b8905531043ed29318&mdspid=&spid=600697&netType=0&sid=5910022328&pid=2028597139&timestamp=20261030200257&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=962067523&ParentNodeID=-99&assertID=5910022328&client_ip=171.8.79.254&SecurityKey=20261030200257&promotionId=&mvid=5900006788&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=07cba28e1c706dd6da6e742712351acd
+海南广播电视总台新闻频道,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/lnysj/50/20251225/index.m3u8?msisdn=20261031220316a2e8d792ec0a48359ede06d609677160&mdspid=&spid=600697&netType=0&sid=5910022326&pid=2028597139&timestamp=20261031220316&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=962067517&ParentNodeID=-99&assertID=5910022326&client_ip=171.8.79.254&SecurityKey=20261031220316&promotionId=&mvid=5900006789&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=b5f7c24eeda3a68a6734e3871e405e4d
+海南广播电视总台自贸频道,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/lnsh/50/20251225/index.m3u8?msisdn=20261031220316d2bddb17efa144e18b8ac1e1d4972b31&mdspid=&spid=600697&netType=0&sid=5910022324&pid=2028597139&timestamp=20261031220316&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=962045226&ParentNodeID=-99&assertID=5910022324&client_ip=171.8.79.254&SecurityKey=20261031220316&promotionId=&mvid=5900006792&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=a894e7c94182d9daacd13de6ecc92f0b
+海南广播电视总台社会与法频道,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/lngg/50/20251225/index.m3u8?msisdn=20261031220316b639422ca363472c912229236b511157&mdspid=&spid=600697&netType=0&sid=5910022323&pid=2028597139&timestamp=20261031220316&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=962045223&ParentNodeID=-99&assertID=5910022323&client_ip=171.8.79.254&SecurityKey=20261031220316&promotionId=&mvid=5900006791&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=1e61db197dafbe7e2974da3cb454c9ad
+海南广播电视总台文旅频道,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/lntyxx/50/20251225/index.m3u8?msisdn=20261031220316783728fa5c6749498872d82ceda0c01c&mdspid=&spid=600697&netType=0&sid=5910022329&pid=2028597139&timestamp=20261031220316&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=962067526&ParentNodeID=-99&assertID=5910022329&client_ip=171.8.79.254&SecurityKey=20261031220316&promotionId=&mvid=5900006790&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=e2e3eaa12e2ae8da29e4ee9891045b7d
+海南广播电视总台少儿频道,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/nxwl/50/20251225/index.m3u8?msisdn=2026103122031751b07d23808343089c15dcf425ba38d6&mdspid=&spid=600697&netType=0&sid=5910022328&pid=2028597139&timestamp=20261031220317&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=962067523&ParentNodeID=-99&assertID=5910022328&client_ip=171.8.79.254&SecurityKey=20261031220317&promotionId=&mvid=5900006788&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=06a1012a69913df2ee123452f8d2ab98
 51 Radio TV,http://wms.shared.streamshow.it/canale51/canale51/playlist.m3u8
 ACE Country Radio KPVM-LD,https://2-fss-1.streamhoster.com/pl_122/206858-4412960-1/playlist.m3u8
 AE Radio TV,https://tls-cl.cdnz.cl/aeradio/live/playlist.m3u8
@@ -17,10 +17,8 @@ BPX TV Radio,https://video1.getstreamhosting.com:1936/8212/8212/playlist.m3u8
 Buenisima Radio TV,https://canal.mediaserver.com.co/live/buenisimatv.m3u8
 Canal TV Radio Maya TGBA,https://s.emisoras.tv:8081/radiomaya/index.m3u8
 Caoba TV Radio,https://host.streamingnation.live:3940/live/caobatvlive.m3u8
-Ciudadano Radio,https://oracle.streaminghd.cl/ciudadanoradiotv/ciudadanoradiotv/playlist.m3u8
 Cool FM 98.9,https://live2.tensila.com/cool-v-1.arubara/hls/master.m3u8
 DG:Radio,https://mdn.dg.church/683c0cb036885-1/index.m3u8
-Diferencia Radio TV,https://s1.radiumcast.top/memfs/674b2d4f-7d6e-49be-9c6c-3094868259d9.m3u8
 Dismar Radio TV,https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8
 EcuaMundo Radio TV,https://pacific.direcnode.com:3353/live/ecuamundotvlive.m3u8
 El Radio 9090 FM,https://9090video.mobtada.com/hls/stream.m3u8
@@ -110,7 +108,6 @@ Radio El Sembrador,https://tv.arkeo.cl:1936/elsembrador/elsembrador/playlist.m3u
 Radio Fann Jordan Studio,http://45.63.116.205/hls2/stream1.m3u8
 Radio Fantasia TV,https://v2.tustreaming.cl/fantasiatv/index.m3u8
 Radio Fantastica 98.9 FM,http://190.107.232.9:8082/livestream/stream.m3u8
-Radio Fiessta,https://www.cloudscriptdog.cl:19360/fiesta-video-01/fiesta-video-01.m3u8
 Radio Fiesta de Milagros TV,https://tv.webmedialive.com/fiestatv/live/playlist.m3u8
 Radio Frecuencia Uno,https://v1.tustreaming.cl/frecuencia1tv/index.m3u8
 Radio Fx Net,https://streamlov.alsolnet.com/radiofxnet/live/playlist.m3u8
@@ -127,7 +124,6 @@ Radio JND,https://radiojnd.cdn.hostin.cc/radiojnd/playlist.m3u8
 Radio Karolina TV,https://peer2.tdiradio.com/static/streaming-playlists/hls/4207de1d-52e8-4591-ad9e-218069b864d1/0.m3u8
 Radio Kollasuyo,https://azura2.bitstreaming.net/hls/kollasuyo3/live.m3u8
 Radio La Serena TV,https://5ff3d9babae13.streamlock.net/chrgkqgkyb/chrgkqgkyb/playlist.m3u8
-Radio Las Nieves,https://v2.tustreaming.cl/rln/index.m3u8
 Radio Lola TV,https://peer2.tdiradio.com/static/streaming-playlists/hls/7c3ea8d3-49dc-4e1b-8b1e-dc6fab71f5cf/0.m3u8
 Radio Maria TV,https://radiomaria.inovanex.stream/stream.m3u8
 Radio Master,https://videoserver.tmcreativos.com:19360/radiomaster/radiomaster.m3u8
@@ -189,7 +185,6 @@ Radio TV Basse-Terre,https://vdo.ssl-stream.com:3412/stream/play.m3u8
 Radio TV El Arca del Pacto,https://video.wilohosting.com:19360/radiotvelarcadelpacto/radiotvelarcadelpacto.m3u8
 Radio TV Neuquen,https://media.neuquen.gov.ar/rtn/television/playlist.m3u8
 Radio TV Serie A,https://legaseriea-live-prd.cdn.netrw.it/out/v1/s-prd/ch-01-prd-s-v2/hls-ch-01-prd-s-hd/index%2Em3u8
-Radio UC,https://oracle.streaminghd.cl/radiouc/radiouc/playlist.m3u8
 Radio UNIACC,https://scl.edge.grupoz.cl/uniaccastream/live/playlist.m3u8
 Radio Universal,https://videostream.chileservidores.com:8081/universal/index.m3u8
 Radio Universitaria San Andres,https://edge.enhdtv.com/8054/index.m3u8
