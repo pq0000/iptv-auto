@@ -73,9 +73,9 @@
       "enabled": true
     },
     {
-      "name": "qwerttvv/Beijing-IPTV",
-      "url": "https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Unicom.m3u",
-      "format": "m3u",
+      "name": "ssili126/tv",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt",
+      "format": "txt",
       "enabled": true
     }
   ]
