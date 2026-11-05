@@ -1,3 +1,4 @@
+TVB翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 TVB翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 TVB翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 TVB翡翠台,http://cc.123.rr.kg/163189/fct
@@ -17,7 +18,6 @@ TVB翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 TVB翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
 TVB翡翠台,http://r.jdshipin.com/62WM7
 TVB翡翠台,http://r.jdshipin.com/qClQf
-TVB翡翠台,http://r.jdshipin.com/n90gt
 TVB明珠台,http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn
 TVB明珠台,http://avd.iptviptv.site:9694/hls/103/index.m3u8
 TVB无线新闻,http://avd.iptviptv.site:9694/hls/906/index.m3u8
@@ -42,12 +42,12 @@ TVBS,http://31.43.191.125:8080/restream/restream/34915
 凤凰傳奇,https://live.yang-1989.eu.org/bilibili/27404696
 非凡-迪安,https://live.yang-1989.eu.org/huya/940213
 东方明珠东方朔,https://live.yang-1989.eu.org/bilibili/26351451
-纬来体育,https://epg.pw/stream/ab6df63b64d0cc44a1f4f029ed847a26fa54a7aebd455578fb05a63f02c22f4b.m3u8
 纬来体育,https://epg.pw/stream/4f18dfe0593db5c686eb64ae8edaf2a9202d4d46bdc9bbde2cee27708e12ea01.m3u8
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://anren.live/HK/BSJDUFpB.m3u8
 香港卫视,https://hkstv.tv/api/m3u8-proxy?url=http%3A%2F%2Fwebcast.hkstv.tv%2Flivestream%2Fmutfysrq%2Fplaylist.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+凤凰卫视,http://221.7.175.154:8445/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰卫视,http://218.206.193.218:8888/hls/67/index.m3u8
 凤凰卫视,http://218.206.193.218:8888/hls/66/index.m3u8
 凤凰卫视,http://xiangxiws.vip:6777/qlw.php?key=qq%E7%BE%A4746405779&id=fhzw
@@ -67,7 +67,6 @@ TVBS,http://31.43.191.125:8080/restream/restream/34915
 凤凰卫视,http://r.jdshipin.com/cCCzW
 凤凰卫视,http://122.152.202.33/s/81a8a44f/index.m3u8?id=15
 凤凰卫视,http://43.152.224.209/qctv.fengshows.cn/live/0701pcc72.flv
-凤凰卫视,http://zmgd.zyrnet.com:8888/hls/110/index.m3u8
 凤凰资讯台,http://xiangxiws.vip:6777/qlw.php?key=qq%E7%BE%A4746405779&id=fhzx
 凤凰资讯台,http://120.198.95.220:9901/tsfile/live/1037_1.m3u8?key=txiptv
 凤凰资讯台,http://120.198.95.220:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&down=1
@@ -250,13 +249,13 @@ ViuTV,http://r.jdshipin.com/TcKr2
 台视新闻台,mitv://135.148.104.228:19806/c4b2c0e7a23f4a1b8dfec08043684751
 台视综合台,mitv://135.148.104.228:19806/ee67d864d35b41c5b627cdb1bceb5f26
 台视财经台,mitv://135.148.104.228:19806/4fd86ddb82a7415cab7c20df6573c197
-东森美洲卫视,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 易中天品三国,http://footyun.top:35455/yy/1354931498
 易中天品三国,https://yg.ygbox.de5.net/huya.php?id=11602032
-杭州明珠,http://121.199.48.54/live1/zjhztv.m3u8?id=zjhztv2&usign=ydaD8d63vYf0A0DxWWFRyg@@Referer=https://www.hoolo.tv/@@
+东森美洲卫视,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+杭州明珠,http://121.199.48.54/live1/zjhztv.m3u8?id=zjhztv2&usign=Gp2HfRcNdxjGR-aUlziJzw@@Referer=https://www.hoolo.tv/@@
 凤凰古城东关门,https://gcalic.v.myalicdn.com/gc/fhgcdgm_1/index.m3u8
 凤凰古城南华山,https://gcalic.v.myalicdn.com/gc/fhgcdnhs_1/index.m3u8
-经典香港电影,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/virtuallive/5100180869/75/index.m3u8?msisdn=20261105000134072a3dc46f2e40919b0232166d3764c4&mdspid=&spid=800033&netType=0&sid=5500242089&pid=2028597139&timestamp=20261105000134&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=625703337&ParentNodeID=-99&assertID=5500242089&client_ip=171.8.79.254&SecurityKey=20261105000134&promotionId=&mvid=5100180869&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=50725306f3ef9edcbc6474148b6fa506
+经典香港电影,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/virtuallive/5100180869/75/index.m3u8?msisdn=20261106000135715d6e29750c4739b1531c791afe1691&mdspid=&spid=800033&netType=0&sid=5500242089&pid=2028597139&timestamp=20261106000135&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=625703337&ParentNodeID=-99&assertID=5500242089&client_ip=171.8.79.254&SecurityKey=20261106000135&promotionId=&mvid=5100180869&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=9ee3ad70a50c905f335438ee6b348bc6
 翡翠台,http://iptv.4666888.xyz/iptv2A.php?id=34
 TVB千禧经典,http://iptv.4666888.xyz/iptv2A.php?id=22
 TVBS新闻,http://iptv.4666888.xyz/iptv2A.php?id=43
