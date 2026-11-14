@@ -2,66 +2,66 @@
   "https://gist.githubusercontent.com/inkss/0cf33e9f52fbb1f91bc5eb0144e504cf/raw/ipv6.m3u": {
     "fail_streak": 0,
     "last_count": 128,
-    "last_ok": "2026-11-13"
+    "last_ok": "2026-11-14"
   },
   "https://iptv-org.github.io/iptv/index.m3u": {
     "fail_streak": 0,
-    "last_count": 11464,
-    "last_ok": "2026-11-13"
+    "last_count": 11472,
+    "last_ok": "2026-11-14"
   },
   "https://live.yang-1989.eu.org/Live.m3u": {
     "fail_streak": 0,
-    "last_count": 881,
-    "last_ok": "2026-11-13"
+    "last_count": 864,
+    "last_ok": "2026-11-14"
   },
   "https://live.zbds.top/tv/iptv4.m3u": {
     "fail_streak": 0,
-    "last_count": 427,
-    "last_ok": "2026-11-13"
+    "last_count": 431,
+    "last_ok": "2026-11-14"
   },
   "https://live.zbds.top/tv/iptv4.txt": {
     "fail_streak": 0,
-    "last_count": 550,
-    "last_ok": "2026-11-13"
+    "last_count": 555,
+    "last_ok": "2026-11-14"
   },
   "https://live.zhi35.com/iptv.m3u": {
     "fail_streak": 0,
     "last_count": 390,
-    "last_ok": "2026-11-13"
+    "last_ok": "2026-11-14"
   },
   "https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/live.m3u": {
     "fail_streak": 0,
-    "last_count": 4597,
-    "last_ok": "2026-11-13"
+    "last_count": 4608,
+    "last_ok": "2026-11-14"
   },
   "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8": {
     "fail_streak": 0,
     "last_count": 2197,
-    "last_ok": "2026-11-13"
+    "last_ok": "2026-11-14"
   },
   "https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt": {
     "fail_streak": 0,
-    "last_count": 231,
-    "last_ok": "2026-11-13"
+    "last_count": 984,
+    "last_ok": "2026-11-14"
   },
   "https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u": {
     "fail_streak": 0,
     "last_count": 96,
-    "last_ok": "2026-11-13"
+    "last_ok": "2026-11-14"
   },
   "https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u": {
     "fail_streak": 0,
     "last_count": 82,
-    "last_ok": "2026-11-13"
+    "last_ok": "2026-11-14"
   },
   "https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Unicom.m3u": {
     "fail_streak": 0,
     "last_count": 134,
-    "last_ok": "2026-11-13"
+    "last_ok": "2026-11-14"
   },
   "https://raw.githubusercontent.com/zilong7728/Collect-IPTV/refs/heads/main/best_sorted.m3u": {
     "fail_streak": 0,
-    "last_count": 638,
-    "last_ok": "2026-11-13"
+    "last_count": 642,
+    "last_ok": "2026-11-14"
   }
 }
