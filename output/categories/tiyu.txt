@@ -1,44 +1,45 @@
-CCTV-5 体育,http://74.91.26.218:82/live/cctv5hd.m3u8
-CCTV-5 体育,http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
-CCTV-5 体育,http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
-CCTV-5 体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5hd
-CCTV-5 体育,http://120.76.248.139/live/bfgd/4200000064.m3u8
-CCTV-5 体育,http://221.226.51.220:50081/newlive/live/hls/6/live.m3u8
-CCTV-5 体育,http://113.124.186.195:7788/641886683
-CCTV-5 体育,http://112.85.93.7:7788/641886683
-CCTV-5 体育,http://223.83.177.142:1234/641886683
-CCTV-5 体育,http://221.226.51.220:50081/newlive/live/hls/5/live.m3u8
-CCTV-5 体育,http://116.52.173.150:1234/641886683
-CCTV-5 体育,http://45.192.97.170:8880/play/393.m3u8
-CCTV-5 体育,http://113.57.140.161:10081/newlive/live/hls/5/live.m3u8
-CCTV-5 体育,http://182.115.48.79:20002/641886683
-CCTV-5 体育,http://60.187.246.34:85/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-5 体育,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv5hdnew/600/index.m3u8?msisdn=20261117000251e28e47211c8a466cb132ef736282696d&mdspid=&spid=699004&netType=0&sid=5500516171&pid=2028597139&timestamp=20261117000251&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=641886683&ParentNodeID=-99&assertID=5500516171&client_ip=171.8.79.254&SecurityKey=20261117000251&promotionId=&mvid=5102048712&mcid=500020&playurlVersion=WX-A1-9.11.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=0cd3fcce7ba20e89e51de4e0db5f0788
-CCTV-5 体育,http://192.168.123.1:23234/rtp/239.3.1.173:8001
-CCTV-5 体育,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226469/1.m3u8?
-CCTV-5 体育,http://gmxw.7766.org:808/hls/93/index.m3u8
-CCTV-5 体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+CCTV-5 体育,http://38.75.136.137:98/gslb/dsdqca/cctv5hd.m3u8?auth=test20251009
+CCTV-5 体育,http://38.75.136.137:98/gslb/dsdqca/jlwshd.m3u8?auth=test20251009
+CCTV-5 体育,http://38.75.136.137:98/gslb/dsdqca/xjwshd.m3u8?auth=test20251009
+CCTV-5 体育,http://192.151.150.154/live/cctv5hd.m3u8
+CCTV-5 体育,http://69.30.245.50/live/cctv5.m3u8
+CCTV-5 体育,http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
+CCTV-5 体育,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6287&tk=e640d0a1bf70
+CCTV-5 体育,http://173.208.234.146/live/cctv5.m3u8
+CCTV-5 体育,http://107.150.60.122/live/cctv5hd.m3u8
+CCTV-5 体育,http://116.237.170.51:7788/641886683
+CCTV-5 体育,http://175.24.134.198:1234/641886683
+CCTV-5 体育,http://183.129.255.66:8480/hls/5/index.m3u8
+CCTV-5 体育,http://61.136.172.236:9901/tsfile/live/0005_1.m3u8
+CCTV-5 体育,http://61.136.172.236:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5 体育,rtp://239.3.1.173:8001
+CCTV-5 体育,http://124.90.45.52:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5 体育,http://1.24.39.180:9003/hls/5/index.m3u8
+CCTV-5 体育,http://221.7.175.154:8445/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5 体育,http://221.7.175.154:8445/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5 体育,http://120.40.39.246:352/newlive/live/hls/5/live.m3u8
+CCTV-5+ 体育赛事,http://74.91.26.218:82/live/cctv5p.m3u8
+CCTV-5+ 体育赛事,http://192.151.150.154/live/cctv5p.m3u8
+CCTV-5+ 体育赛事,http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
+CCTV-5+ 体育赛事,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5181&tk=e503191f8e20
+CCTV-5+ 体育赛事,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5663&tk=b53028476470
+CCTV-5+ 体育赛事,http://173.208.234.146/live/cctv5p.m3u8
+CCTV-5+ 体育赛事,http://107.150.60.122/live/cctv5p.m3u8
+CCTV-5+ 体育赛事,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5p
+CCTV-5+ 体育赛事,http://116.237.170.51:7788/641886773
+CCTV-5+ 体育赛事,http://175.24.134.198:1234/641886773
+CCTV-5+ 体育赛事,http://183.129.255.66:8480/hls/6/index.m3u8
+CCTV-5+ 体育赛事,http://61.136.172.236:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5+ 体育赛事,http://119.29.233.26:1234/641886773
+CCTV-5+ 体育赛事,http://113.124.186.195:7788/641886773
+CCTV-5+ 体育赛事,http://www.zknowl.com:1234/641886773
+CCTV-5+ 体育赛事,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EevWZ0zmguDsOY_Mf3SM5TA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+CCTV-5+ 体育赛事,http://42.94.209.184:7788/641886773
+CCTV-5+ 体育赛事,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv5plusnew/600/index.m3u8?msisdn=202611180002511ccf4a488dea4e37b568deb544fff12b&mdspid=&spid=699004&netType=0&sid=5500516288&pid=2028597139&timestamp=20261118000251&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=641886773&ParentNodeID=-99&assertID=5500516288&client_ip=171.8.79.254&SecurityKey=20261118000251&promotionId=&mvid=5102048803&mcid=500020&playurlVersion=WX-A1-9.11.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=875bcef03cb44baf36c1cbfc2de04667
 CCTV-5+ 体育赛事,http://223.78.65.165:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5+ 体育赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
-CCTV-5+ 体育赛事,https://php.jdshipin.com/TVOD/iptv.php?id=cctv5p
-CCTV-5+ 体育赛事,http://120.76.248.139/live/bfgd/4200000246.m3u8
-CCTV-5+ 体育赛事,http://61.136.172.236:9901/tsfile/live/0016_1.m3u8
-CCTV-5+ 体育赛事,http://58.57.40.22:9901/tsfile/live/1005_1.m3u8
-CCTV-5+ 体育赛事,rtp://239.3.1.130:8004
-CCTV-5+ 体育赛事,http://223.166.245.157:13001/cctv5p.m3u8
-CCTV-5+ 体育赛事,http://112.85.93.7:7788/641886773
-CCTV-5+ 体育赛事,http://112.85.93.3:7788/641886773
-CCTV-5+ 体育赛事,http://219.147.245.238:25480/newlive/live/hls/6/live.m3u8
-CCTV-5+ 体育赛事,http://124.228.160.40:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-5+ 体育赛事,http://45.192.97.170:8880/play/197.m3u8
-CCTV-5+ 体育赛事,http://223.112.114.228:50080/newlive/live/hls/180/live.m3u8
-CCTV-5+ 体育赛事,http://118.193.115.2:9901/tsfile/live/0141_1.m3u8?key=txiptv
-CCTV-5+ 体育赛事,http://118.193.115.2:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-5+ 体育赛事,http://fuxin.yunjifei.top:999/tsfile/live/0016_1.m3u8?key=txiptv
-CCTV-5+ 体育赛事,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv5plusnew/600/index.m3u8?msisdn=202611170002519ff252a91d0b4f43a0f836fad86beb00&mdspid=&spid=699004&netType=0&sid=5500516288&pid=2028597139&timestamp=20261117000251&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=641886773&ParentNodeID=-99&assertID=5500516288&client_ip=171.8.79.254&SecurityKey=20261117000251&promotionId=&mvid=5102048803&mcid=500020&playurlVersion=WX-A1-9.11.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=4816580c432b996da1820fc7804079ee
-CCTV-5+ 体育赛事,http://192.168.123.1:23234/rtp/239.3.1.130:8004
-CCTV-5+ 体育赛事,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8?
 雨说体育徐静雨,https://live.yang-1989.eu.org/bilibili/21669525
+屿风解说足球,https://live.yang-1989.eu.org/douyin/Lt.Firstchoice
 风云剧场,http://hns.7159287.xyz:8767/cctvfyjc.m3u8
 风云剧场,http://mt.itfree.cyb.wiki:20216/cctvfyjc.m3u8
 风云剧场,http://feiniu-nas.xipinju.top:8767/cctvfyjc.m3u8
@@ -59,16 +60,9 @@ CCTV-5+ 体育赛事,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/P
 风云剧场,http://173.208.212.130:8181/720p/fyjc.m3u8
 风云剧场,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyjc
 风云剧场,http://183.11.239.36:808/hls/95/index.m3u8
-精品体育,https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e50346040e226.m3u8
-精品体育,https://epg.pw/stream/94ed0232b61ce8d89883160a4cdfbfc8f3225cae70ef8e17d93eec249a3c8ad6.m3u8
-精品体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
-精品体育,https://epg.pw/stream/866a097a0907c9832440f8df38272dd555abf05200dfbafcc137e214c9b30ca7.m3u8
-精品体育,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226978/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EEZy1Vmu4k2lYOlZCsti1BQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-足球频道,https://epg.pw/stream/c7df950876e6a1ceb8be74ee86f9f702cebbbae29f1d15124ef8f86fd43161cf.m3u8
-纬来体育,https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5edef2b25.m3u8
 笑看风云,https://live.metshop.top/huya/29465858
-风云音乐,http://121.199.48.54/live1/jsbv2b.m3u8?id=fyyy&usign=I9T78q47EwM-hMh0gmMmyA
-风云音乐,http://121.199.48.54/live1/jsbv1.m3u8?id=fyyy&usign=I9T78q47EwM-hMh0gmMmyA
+风云音乐,http://121.199.48.54/live1/jsbv2b.m3u8?id=fyyy&usign=daRc52IjjmSvuzYItmDGkA
+风云音乐,http://121.199.48.54/live1/jsbv1.m3u8?id=fyyy&usign=daRc52IjjmSvuzYItmDGkA
 风云音乐,http://121.199.48.54/live1/jsbv1.m3u8?id=fyyy&usign=E8a0pEkGBVPiQHXezgayYA
 风云音乐,http://121.199.48.54/live1/jsbv2b.m3u8?id=fyyy&usign=E8a0pEkGBVPiQHXezgayYA
 风云音乐,http://47.97.252.137:8088/daili/fyyy.m3u8?line=0
@@ -100,8 +94,8 @@ CCTV-5+ 体育赛事,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/P
 风云足球,http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
 风云足球,http://120.76.248.139/live/bfgd/4200000225.m3u8
 风云足球,http://183.11.239.36:808/hls/133/index.m3u8
-高尔夫网球,http://121.199.48.54/live1/jsbv2b.m3u8?id=gefwq&usign=I9T78q47EwM-hMh0gmMmyA
-高尔夫网球,http://121.199.48.54/live1/jsbv1.m3u8?id=gefwq&usign=I9T78q47EwM-hMh0gmMmyA
+高尔夫网球,http://121.199.48.54/live1/jsbv2b.m3u8?id=gefwq&usign=daRc52IjjmSvuzYItmDGkA
+高尔夫网球,http://121.199.48.54/live1/jsbv1.m3u8?id=gefwq&usign=daRc52IjjmSvuzYItmDGkA
 高尔夫网球,http://121.199.48.54/live1/jsbv2b.m3u8?id=gefwq&usign=E8a0pEkGBVPiQHXezgayYA
 高尔夫网球,http://121.199.48.54/live1/jsbv1.m3u8?id=gefwq&usign=E8a0pEkGBVPiQHXezgayYA
 高尔夫网球,http://47.97.252.137:8088/daili/gefwq.m3u8?line=0
@@ -116,6 +110,7 @@ CCTV-5+ 体育赛事,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/P
 高尔夫网球,http://173.208.212.130:8181/720p/gefwq.m3u8
 高尔夫网球,http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
 高尔夫网球,http://104.152.209.49:8181/720p/gefwq.m3u8
+纬来体育台,https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5edef2b25.m3u8
 纬来体育台,https://epg.pw/stream/4f18dfe0593db5c686eb64ae8edaf2a9202d4d46bdc9bbde2cee27708e12ea01.m3u8
 纬来体育台,https://epg.pw/stream/ab6df63b64d0cc44a1f4f029ed847a26fa54a7aebd455578fb05a63f02c22f4b.m3u8
 纬来体育台,https://epg.pw/stream/65161be2ecd7c7b2e054dbac30922b2673b4eff6497b77c71bb81215aa826cc4.m3u8
@@ -128,12 +123,15 @@ CCTV-5+ 体育赛事,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/P
 纬来体育台,http://8.138.7.223/【公众号：榴芒电视】/wlty.m3u8
 电影_赛车,https://lbds.us.ci/11279247
 电影_赛车,http://tv.zimtv.cn/tv/player/api/huya.php?id=11279247
+精品体育,https://epg.pw/stream/94ed0232b61ce8d89883160a4cdfbfc8f3225cae70ef8e17d93eec249a3c8ad6.m3u8
+精品体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
+精品体育,https://epg.pw/stream/866a097a0907c9832440f8df38272dd555abf05200dfbafcc137e214c9b30ca7.m3u8
+精品体育,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226978/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EEZy1Vmu4k2lYOlZCsti1BQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 超级体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 超级体育,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226348/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ETVADpDcwLMjKKWF--XtEOg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-五星体育,http://121.199.48.54/live1/jsbv2b.m3u8?id=wxtyhd&usign=I9T78q47EwM-hMh0gmMmyA
-五星体育,http://121.199.48.54/live1/jsbv1.m3u8?id=wxtyhd&usign=I9T78q47EwM-hMh0gmMmyA
-五星体育,http://38.75.136.137:82/live2/shkk.m3u8?id=wxtyhd&usign=I9T78q47EwM-hMh0gmMmyA
-五星体育,http://8.138.7.223/tv/shtv.php?id=wxty
+五星体育,http://121.199.48.54/live1/jsbv2b.m3u8?id=wxtyhd&usign=daRc52IjjmSvuzYItmDGkA
+五星体育,http://121.199.48.54/live1/jsbv1.m3u8?id=wxtyhd&usign=daRc52IjjmSvuzYItmDGkA
+五星体育,http://38.75.136.137:82/live2/shkk.m3u8?id=wxtyhd&usign=daRc52IjjmSvuzYItmDGkA
 五星体育,http://38.75.136.137:82/live2/shkk.m3u8?id=wxtyhd&usign=E8a0pEkGBVPiQHXezgayYA
 五星体育,http://live.xmcdn.com/live/57/64.m3u8
 五星体育,http://121.199.48.54/live1/jsbv1.m3u8?id=wxtyhd&usign=E8a0pEkGBVPiQHXezgayYA
@@ -143,8 +141,8 @@ CCTV-5+ 体育赛事,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/P
 五星体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=wxtyhd
 五星体育,https://cdn15.163189.xyz/163189/wxty
 五星体育,http://38.75.136.137:98/gslb/dsdqpub/wxtyhd.m3u8?auth=testpub
-劲爆体育,http://121.199.48.54/live1/jsbv2b.m3u8?id=jbtyhd&usign=I9T78q47EwM-hMh0gmMmyA
-劲爆体育,http://121.199.48.54/live1/jsbv1.m3u8?id=jbtyhd&usign=I9T78q47EwM-hMh0gmMmyA
+劲爆体育,http://121.199.48.54/live1/jsbv2b.m3u8?id=jbtyhd&usign=daRc52IjjmSvuzYItmDGkA
+劲爆体育,http://121.199.48.54/live1/jsbv1.m3u8?id=jbtyhd&usign=daRc52IjjmSvuzYItmDGkA
 劲爆体育,http://121.199.48.54/live1/jsbv1.m3u8?id=jbtyhd&usign=E8a0pEkGBVPiQHXezgayYA
 劲爆体育,http://121.199.48.54/live1/jsbv2b.m3u8?id=jbtyhd&usign=E8a0pEkGBVPiQHXezgayYA
 劲爆体育,http://183.237.95.108:9901/tsfile/live/1074_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -170,8 +168,8 @@ CCTV-5+ 体育赛事,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/P
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 广东体育,http://php.jdshipin.com/PLTV/iptv.php?id=gdty
 广东体育,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=EFT0s4&tk=bknhp6JvJlqE
-睛彩篮球,http://121.199.48.54/live1/jsbv2b.m3u8?id=jclq&usign=I9T78q47EwM-hMh0gmMmyA
-睛彩篮球,http://121.199.48.54/live1/jsbv1.m3u8?id=jclq&usign=I9T78q47EwM-hMh0gmMmyA
+睛彩篮球,http://121.199.48.54/live1/jsbv2b.m3u8?id=jclq&usign=daRc52IjjmSvuzYItmDGkA
+睛彩篮球,http://121.199.48.54/live1/jsbv1.m3u8?id=jclq&usign=daRc52IjjmSvuzYItmDGkA
 睛彩篮球,http://121.199.48.54/live1/jsbv2b.m3u8?id=jclq&usign=E8a0pEkGBVPiQHXezgayYA
 睛彩篮球,http://121.199.48.54/live1/jsbv1.m3u8?id=jclq&usign=E8a0pEkGBVPiQHXezgayYA
 睛彩篮球,rtp://239.3.1.126:8001
@@ -182,11 +180,12 @@ CCTV-5+ 体育赛事,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/P
 睛彩篮球,http://kkk.888.3116598.xyz/api.php?n=tttt&id=ATiiGA&tk=FgM0vQMejxvG
 睛彩篮球,http://kkk.888.3116598.xyz/api.php?n=tttt&id=imBKNx&tk=FgM0vQMejxvG
 睛彩篮球,http://kkk.888.3116598.xyz/api.php?n=tttt&id=nXR0Sc&tk=FgM0vQMejxvG
-辽宁体育,http://121.199.48.54/live1/jsbv2b.m3u8?id=lnty3m&usign=I9T78q47EwM-hMh0gmMmyA
-辽宁体育,http://121.199.48.54/live1/jsbv2b.m3u8?id=lnty&usign=I9T78q47EwM-hMh0gmMmyA
-辽宁体育,http://121.199.48.54/live1/jsbv1.m3u8?id=lnty3m&usign=I9T78q47EwM-hMh0gmMmyA
-辽宁体育,http://121.199.48.54/live1/jsbv1.m3u8?id=lnty&usign=I9T78q47EwM-hMh0gmMmyA
-辽宁体育,kdsvod://rtmphtml://http://v.91kds.com/b7/lnbdy.m3u8?id=lnty&usign=I9T78q47EwM-hMh0gmMmyA
+足球频道,https://epg.pw/stream/c7df950876e6a1ceb8be74ee86f9f702cebbbae29f1d15124ef8f86fd43161cf.m3u8
+辽宁体育,http://121.199.48.54/live1/jsbv2b.m3u8?id=lnty3m&usign=daRc52IjjmSvuzYItmDGkA
+辽宁体育,http://121.199.48.54/live1/jsbv2b.m3u8?id=lnty&usign=daRc52IjjmSvuzYItmDGkA
+辽宁体育,http://121.199.48.54/live1/jsbv1.m3u8?id=lnty3m&usign=daRc52IjjmSvuzYItmDGkA
+辽宁体育,http://121.199.48.54/live1/jsbv1.m3u8?id=lnty&usign=daRc52IjjmSvuzYItmDGkA
+辽宁体育,kdsvod://rtmphtml://http://v.91kds.com/b7/lnbdy.m3u8?id=lnty&usign=daRc52IjjmSvuzYItmDGkA
 辽宁体育,http://121.199.48.54/live1/jsbv2b.m3u8?id=lnty&usign=E8a0pEkGBVPiQHXezgayYA
 辽宁体育,http://121.199.48.54/live1/jsbv1.m3u8?id=lnty&usign=E8a0pEkGBVPiQHXezgayYA
 辽宁体育,http://121.199.48.54/live1/jsbv1.m3u8?id=lnty3m&usign=E8a0pEkGBVPiQHXezgayYA
@@ -194,8 +193,8 @@ CCTV-5+ 体育赛事,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/P
 辽宁体育,http://119.29.233.26:1234/962067526
 辽宁体育,http://dassby.qqff.top:99/live/辽宁体育/index.m3u8
 魅力足球,http://dassby.qqff.top:99/live/快乐垂钓/index.m3u8
-游戏风云,http://121.199.48.54/live1/jsbv2b.m3u8?id=yxfyhd&usign=I9T78q47EwM-hMh0gmMmyA
-游戏风云,http://121.199.48.54/live1/jsbv1.m3u8?id=yxfyhd&usign=I9T78q47EwM-hMh0gmMmyA
+游戏风云,http://121.199.48.54/live1/jsbv2b.m3u8?id=yxfyhd&usign=daRc52IjjmSvuzYItmDGkA
+游戏风云,http://121.199.48.54/live1/jsbv1.m3u8?id=yxfyhd&usign=daRc52IjjmSvuzYItmDGkA
 游戏风云,http://121.199.48.54/live1/jsbv1.m3u8?id=yxfyhd&usign=E8a0pEkGBVPiQHXezgayYA
 游戏风云,http://121.199.48.54/live1/jsbv2b.m3u8?id=yxfyhd&usign=E8a0pEkGBVPiQHXezgayYA
 游戏风云,http://8.138.7.223/tv/migu3.php?id=yxfy
@@ -213,19 +212,19 @@ CCTV-5+ 体育赛事,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/P
 山东体育,http://live.xmcdn.com/live/805/64.m3u8
 山东体育,http://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 山东体育,http://58.57.40.22:9901/tsfile/live/1020_1.m3u8
-安徽综艺体育,http://38.75.136.137:82/live2/ahtv2.m3u8?id=ahzy&usign=I9T78q47EwM-hMh0gmMmyA
-安徽综艺体育,http://38.75.136.137:82/live2/ahtv3.m3u8?id=ahzy&usign=I9T78q47EwM-hMh0gmMmyA
+安徽综艺体育,http://38.75.136.137:82/live2/ahtv2.m3u8?id=ahzy&usign=daRc52IjjmSvuzYItmDGkA
+安徽综艺体育,http://38.75.136.137:82/live2/ahtv3.m3u8?id=ahzy&usign=daRc52IjjmSvuzYItmDGkA
 安徽综艺体育,http://38.75.136.137:82/live2/ahtv2.m3u8?id=ahzy&usign=E8a0pEkGBVPiQHXezgayYA
 安徽综艺体育,http://38.75.136.137:82/live2/ahtv3.m3u8?id=ahzy&usign=E8a0pEkGBVPiQHXezgayYA
-陕西体育休闲,http://gslbmgsplive.miguvideo.com/migu/kailu/sxtyxx/50/20250804/index.m3u8?msisdn=20261115092206c7cab9796c784e1eb19655ea8eef22b9&mdspid=&spid=600572&netType=0&sid=5910022189&pid=2028597139&timestamp=20261115092206&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909356&ParentNodeID=-99&assertID=5910022189&client_ip=2409:8a00:6034:3331:7b8a:1b91:dfe4:1dea&SecurityKey=20261115092206&promotionId=&mvid=5900006712&mcid=500020&playurlVersion=WX-A1-9.11.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=c36902dfd70d1f82a93b65be92138369&ddCalcu=9c63e361896300122d9fedb7506db13f98a2
-陕西体育休闲,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/sxtyxx/50/20250804/index.m3u8?msisdn=2026111510025324ecaf971b02469c8ec2da01e5402232&mdspid=&spid=600572&netType=0&sid=5910022189&pid=2028597139&timestamp=20261115100253&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909356&ParentNodeID=-99&assertID=5910022189&client_ip=171.8.79.254&SecurityKey=20261115100253&promotionId=&mvid=5900006712&mcid=500020&playurlVersion=WX-A1-9.11.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=36556db59db27f1636c4bff3b1d1fb2c
-陕西体育休闲,http://121.199.48.54/live1/jsbv2b.m3u8?id=sntv7&usign=I9T78q47EwM-hMh0gmMmyA
-陕西体育休闲,http://121.199.48.54/live1/jsbv1.m3u8?id=sntv7&usign=I9T78q47EwM-hMh0gmMmyA
+陕西体育休闲,http://gslbmgsplive.miguvideo.com/migu/kailu/sxtyxx/50/20250804/index.m3u8?msisdn=202611160922078ae79c2bdcb54179b6c96dbc951b1eb7&mdspid=&spid=600572&netType=0&sid=5910022189&pid=2028597139&timestamp=20261116092207&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909356&ParentNodeID=-99&assertID=5910022189&client_ip=2409:8a00:6031:3541:3c88:c6e6:a611:e849&SecurityKey=20261116092207&promotionId=&mvid=5900006712&mcid=500020&playurlVersion=WX-A1-9.11.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=fd86e0787372c7c13a7c15b7c38003d1&ddCalcu=1fdde3810660e08037c877b35712cc77ac31
+陕西体育休闲,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/sxtyxx/50/20250804/index.m3u8?msisdn=202611161002532463600e6f174374a10dbe83c2c005b3&mdspid=&spid=600572&netType=0&sid=5910022189&pid=2028597139&timestamp=20261116100253&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909356&ParentNodeID=-99&assertID=5910022189&client_ip=171.8.79.254&SecurityKey=20261116100253&promotionId=&mvid=5900006712&mcid=500020&playurlVersion=WX-A1-9.11.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=25705ca0cc443010422d51e2a3133403
+陕西体育休闲,http://121.199.48.54/live1/jsbv2b.m3u8?id=sntv7&usign=daRc52IjjmSvuzYItmDGkA
+陕西体育休闲,http://121.199.48.54/live1/jsbv1.m3u8?id=sntv7&usign=daRc52IjjmSvuzYItmDGkA
 陕西体育休闲,http://121.199.48.54/live1/jsbv2b.m3u8?id=sntv7&usign=E8a0pEkGBVPiQHXezgayYA
 陕西体育休闲,http://121.199.48.54/live1/jsbv1.m3u8?id=sntv7&usign=E8a0pEkGBVPiQHXezgayYA
-北京体育休闲,http://38.75.136.137:82/live2/btv.m3u8?id=btv6&usign=I9T78q47EwM-hMh0gmMmyA
-北京体育休闲,http://121.199.48.54/live1/jsbv2b.m3u8?id=btv6&usign=I9T78q47EwM-hMh0gmMmyA
-北京体育休闲,http://121.199.48.54/live1/jsbv1.m3u8?id=btv6&usign=I9T78q47EwM-hMh0gmMmyA
+北京体育休闲,http://38.75.136.137:82/live2/btv.m3u8?id=btv6&usign=daRc52IjjmSvuzYItmDGkA
+北京体育休闲,http://121.199.48.54/live1/jsbv2b.m3u8?id=btv6&usign=daRc52IjjmSvuzYItmDGkA
+北京体育休闲,http://121.199.48.54/live1/jsbv1.m3u8?id=btv6&usign=daRc52IjjmSvuzYItmDGkA
 北京体育休闲,http://38.75.136.137:82/live2/btv.m3u8?id=btv6&usign=E8a0pEkGBVPiQHXezgayYA
 北京体育休闲,http://121.199.48.54/live1/jsbv1.m3u8?id=btv6&usign=E8a0pEkGBVPiQHXezgayYA
 北京体育休闲,http://121.199.48.54/live1/jsbv2b.m3u8?id=btv6&usign=E8a0pEkGBVPiQHXezgayYA
@@ -233,7 +232,8 @@ CCTV-5+ 体育赛事,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/P
 5首劲爆dj,http://wb.xn--dkw.xn--6qq986b3xl:5244/d/%E5%A4%A9/og1.mp4?mda-mm69dxgtcqg28j9j/sc/cae_h264/1638860024910192032/mda-mm69dxgtcqg28j9j.mp4
 鸳鸯DJ》劲爆DJ,https://vd3.bdstatic.com/mda-nba9z1mqi949jyyb/sc/cae_h264_delogo/1644629210546304303/mda-nba9z1mqi949jyyb.mp4
 体育休闲,rtp://239.3.1.243:8000
-陕西体育休闲频道,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/sxtyxx/50/20250804/index.m3u8?msisdn=20261117020253f6fffde9ab054810b73c4a2dd83e784e&mdspid=&spid=600572&netType=0&sid=5910022189&pid=2028597139&timestamp=20261117020253&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909356&ParentNodeID=-99&assertID=5910022189&client_ip=171.8.79.254&SecurityKey=20261117020253&promotionId=&mvid=5900006712&mcid=500020&playurlVersion=WX-A1-9.11.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=c16ae8cedad9c8f11336deeb292af7d7
+陕西体育休闲频道,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/sxtyxx/50/20250804/index.m3u8?msisdn=202611172202539657f1fc88c1414dbdff57bca092cec8&mdspid=&spid=600572&netType=0&sid=5910022189&pid=2028597139&timestamp=20261117220253&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909356&ParentNodeID=-99&assertID=5910022189&client_ip=171.8.79.254&SecurityKey=20261117220253&promotionId=&mvid=5900006712&mcid=500020&playurlVersion=WX-A1-9.11.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=8e1c4f6c6ac00bd9a6150138d8258abf
+体育休闲频道,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/jstv/jstiyu/600/index.m3u8?msisdn=202611172202574f15383c2fba4eabbc67f0db857b6eee&mdspid=&spid=699067&netType=0&sid=5500260554&pid=2028597139&timestamp=20261117220257&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=626064707&ParentNodeID=-99&assertID=5500260554&client_ip=171.8.79.254&SecurityKey=20261117220257&promotionId=&mvid=5100186459&mcid=500020&playurlVersion=WX-A1-9.11.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=cee209343b9b0889f42d870be87cc186
 ACI Sport TV,https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
 Adjarasport 1,https://live20.bozztv.com/dvrfl05/gin-adjara/index.m3u8
 Adriatic Sport 1,http://sultanios.alwaysdata.net/vavo.php?ID=3645291205
@@ -366,7 +366,6 @@ Eurosport,https://livetv.shamon-cable.net:8443/Eurosport-HD/index.m3u8
 Eurovision Sport,https://amg26268-amg26268c34-amgplt0018.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg26268-amg26268c34-amgplt0018/playlist.m3u8
 Extreme Sports Channel,http://46.32.176.50/extremesport/index.m3u8
 F1 Channel,https://amg12058-c15studio-amg12058c1-lg-us-5787.playouts.now.amagi.tv/playlist.m3u8
-Fast Sports,http://s7.merlive.am/Fastsports/index.m3u8
 Fox Sports 1,http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 Fox Sports 2,https://tvsen7.aynascope.net/foxsports2/index.m3u8
 Fox Sports,http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1552.m3u8
@@ -416,6 +415,9 @@ Polsat Sport 3,http://57.128.210.196:8080/192/index.m3u8
 Polsat Sport Fight,http://92.114.85.87:8016/play/a00b/index.m3u8
 Premier Sports 2,https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8
 Premier Sports,https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8
+Prima Sport 2,http://sultanios.alwaysdata.net/vavo.php?ID=3381201599
+Prima Sport 3,http://sultanios.alwaysdata.net/vavo.php?ID=2762629881
+Prima Sport 4,http://sultanios.alwaysdata.net/vavo.php?ID=3194919143
 Prima Sport Czechia,http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/prima_sport/live_mq?offsetSeconds=0
 PTV Sports,http://103.250.28.74:8000/play/a019/index.m3u8
 QazSport,http://stream.mcquack.net/72/index.m3u8
@@ -453,6 +455,7 @@ Sky Sports 2,http://200.115.120.1:8000/play/ca82266/index.m3u8
 Sky Sports F1,https://cdn.stmify.com/out/v1/SKY_SPORTS_F1/index.m3u8
 Sky Sports News,https://cdn.stmify.com/out/v1/SKY_SPORTS_PREMIER_LEAGUE/index.m3u8
 Sky Sports NFL,https://cdn.stmify.com/out/v1/SKY_SPORTS_ACTION/index.m3u8
+Sport1,https://r.eu.cdn-redge.media/livehls/oeu/mt/live/sport1/live.livx/playlist.m3u8
 Sport1,http://88.212.7.14/live/sport1_cz_avc_25p/playlist.m3u8
 Sport1,http://88.212.15.50/live/test_sport1_25p/playlist.m3u8
 Sport 1,http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-sport1-sk/live_fullhd
