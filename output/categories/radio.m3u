@@ -1,20 +1,22 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg.xml,https://live.zhi35.com/epg.xml.gz"
 #EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/douyin/37532256839" group-title="广播",安久电台
 https://live.yang-1989.eu.org/douyin/37532256839
+#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/douyin/Jinyi.15" group-title="广播",锦一电台
+https://live.yang-1989.eu.org/douyin/Jinyi.15
 #EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/BBS佛教广播.png" group-title="广播",BBS佛教广播
 http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8
 #EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/中国交通广播.png" group-title="广播",中国交通广播
 http://cfss.cc/cdn/dy/CMG_ZGJTGB.flv
 #EXTINF:-1 group-title="广播",海南广播电视总台新闻频道
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/lnysj/50/20251225/index.m3u8?msisdn=202611222202569f17900e2d5840de9e6779f45ed42bcd&mdspid=&spid=600697&netType=0&sid=5910022326&pid=2028597139&timestamp=20261122220256&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=962067517&ParentNodeID=-99&assertID=5910022326&client_ip=171.8.79.254&SecurityKey=20261122220256&promotionId=&mvid=5900006789&mcid=500020&playurlVersion=WX-A1-9.11.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=52777d1c7bd197e485993127be7003fb
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/lnysj/50/20251225/index.m3u8?msisdn=20261124000257b5f05f1cfc774237a2534cdb19990c2e&mdspid=&spid=600697&netType=0&sid=5910022326&pid=2028597139&timestamp=20261124000257&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=962067517&ParentNodeID=-99&assertID=5910022326&client_ip=171.8.79.254&SecurityKey=20261124000257&promotionId=&mvid=5900006789&mcid=500020&playurlVersion=WX-A1-9.11.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=2f221685690e716cfd4db5a42e538583
 #EXTINF:-1 group-title="广播",海南广播电视总台自贸频道
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/lnsh/50/20251225/index.m3u8?msisdn=202611222202569e544961c6804202a6dd7eeff0f38372&mdspid=&spid=600697&netType=0&sid=5910022324&pid=2028597139&timestamp=20261122220256&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=962045226&ParentNodeID=-99&assertID=5910022324&client_ip=171.8.79.254&SecurityKey=20261122220256&promotionId=&mvid=5900006792&mcid=500020&playurlVersion=WX-A1-9.11.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=a1d24eba65e911939f1471d971300f04
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/lnsh/50/20251225/index.m3u8?msisdn=202611240002578c86da142646472090b99e004eeb3c3b&mdspid=&spid=600697&netType=0&sid=5910022324&pid=2028597139&timestamp=20261124000257&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=962045226&ParentNodeID=-99&assertID=5910022324&client_ip=171.8.79.254&SecurityKey=20261124000257&promotionId=&mvid=5900006792&mcid=500020&playurlVersion=WX-A1-9.11.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=ab131e3fcfbe97a0bdb5297c69dc838c
 #EXTINF:-1 group-title="广播",海南广播电视总台社会与法频道
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/lngg/50/20251225/index.m3u8?msisdn=202611222202562f380bd05d10404c8e17784ee881f902&mdspid=&spid=600697&netType=0&sid=5910022323&pid=2028597139&timestamp=20261122220256&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=962045223&ParentNodeID=-99&assertID=5910022323&client_ip=171.8.79.254&SecurityKey=20261122220256&promotionId=&mvid=5900006791&mcid=500020&playurlVersion=WX-A1-9.11.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=4b535a145e09f70ba9f16fe063654018
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/lngg/50/20251225/index.m3u8?msisdn=2026112400025774c5807d66874765b598353a4c8b91fe&mdspid=&spid=600697&netType=0&sid=5910022323&pid=2028597139&timestamp=20261124000257&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=962045223&ParentNodeID=-99&assertID=5910022323&client_ip=171.8.79.254&SecurityKey=20261124000257&promotionId=&mvid=5900006791&mcid=500020&playurlVersion=WX-A1-9.11.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=bacef8621b995dffe0569b519e5dbd5a
 #EXTINF:-1 group-title="广播",海南广播电视总台文旅频道
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/lntyxx/50/20251225/index.m3u8?msisdn=20261122220256e82cfd3aa17a475fbc7517197532585f&mdspid=&spid=600697&netType=0&sid=5910022329&pid=2028597139&timestamp=20261122220256&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=962067526&ParentNodeID=-99&assertID=5910022329&client_ip=171.8.79.254&SecurityKey=20261122220256&promotionId=&mvid=5900006790&mcid=500020&playurlVersion=WX-A1-9.11.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=9842b5c2b45021e15498b363ee830c2a
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/lntyxx/50/20251225/index.m3u8?msisdn=202611240002577870e6f8272a4124a1182aa7351f8af3&mdspid=&spid=600697&netType=0&sid=5910022329&pid=2028597139&timestamp=20261124000257&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=962067526&ParentNodeID=-99&assertID=5910022329&client_ip=171.8.79.254&SecurityKey=20261124000257&promotionId=&mvid=5900006790&mcid=500020&playurlVersion=WX-A1-9.11.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=5f740e6b31a2ce9293676b08b10c1a4e
 #EXTINF:-1 group-title="广播",海南广播电视总台少儿频道
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/nxwl/50/20251225/index.m3u8?msisdn=2026112222025617702bf6a02a4441b36da8e33c17536d&mdspid=&spid=600697&netType=0&sid=5910022328&pid=2028597139&timestamp=20261122220256&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=962067523&ParentNodeID=-99&assertID=5910022328&client_ip=171.8.79.254&SecurityKey=20261122220256&promotionId=&mvid=5900006788&mcid=500020&playurlVersion=WX-A1-9.11.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=8862a553486c82967f91721ddc57f4ae
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/nxwl/50/20251225/index.m3u8?msisdn=2026112400025810277afe3a774941ba23fb97bd028053&mdspid=&spid=600697&netType=0&sid=5910022328&pid=2028597139&timestamp=20261124000258&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=962067523&ParentNodeID=-99&assertID=5910022328&client_ip=171.8.79.254&SecurityKey=20261124000258&promotionId=&mvid=5900006788&mcid=500020&playurlVersion=WX-A1-9.11.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=48950088a1d77ee9994fcb7fe325880e
 #EXTINF:-1 tvg-logo="https://www.51news.it/images/loghi/logo_tv_radio_51news.png" group-title="广播",51 Radio TV
 http://wms.shared.streamshow.it/canale51/canale51/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iPtuku6.png" group-title="广播",ACE Country Radio KPVM-LD
@@ -123,12 +125,12 @@ https://latamvdo.com:3626/hybrid/play.m3u8
 https://stmv6.voxtvhd.com.br/losangeles/losangeles/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://globalradio.lu/wp-content/uploads/2025/03/Mask-Group-1.jpg#10" group-title="广播",Luxembourg Global Radio TV
 https://stream.globalradio.lu/lgr/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1495_Mas_Radio_TV.png" group-title="广播",Mas Radio TV
+https://iptv.intersurtv.cl/intersur_mauletv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uu8Clh2.png" group-title="广播",Mel Radio TV
 https://eu1.servers10.com:8081/8334/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XEpLWJw.png" group-title="广播",Mi Radio TV
 https://scl.edge.grupoz.cl/miradio2/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KsNI3vQ.jpg" group-title="广播",NG Radio TV
-https://67acccf130420.streamlock.net/ngradiotv/ngradiotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://aloula.faulio.com/storage/mediagallery/0f/c5/fullhd_5da380cdfc304fd7d4672a83aeb6c62bc1d3d3e8.png" group-title="广播",Nidae AlIslam Radio
 https://live.kwikmotion.com/sbrksanedaradiolive/srpksanedaradio/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mw1lYWE.png" group-title="广播",NPC Radio e TV
@@ -179,6 +181,8 @@ https://v2.tustreaming.cl/armoniamovil/index.m3u8
 https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MzUQtrl.png" group-title="广播",Radio Bocairent TV
 http://185.81.77.4/BocairentTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1776_Radio_Bohemia_TV.png" group-title="广播",Radio Bohemia TV
+https://portalstream.cl:8080/bohemia1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IvZtqyz.png" group-title="广播",Radio Bonita 106.7
 https://cloudvideo.servers10.com:8081/8154/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wsTOcuX.png" group-title="广播",Radio Bremen Fernsehen
@@ -250,7 +254,7 @@ https://59d7d6f47d7fc.streamlock.net/visualradio/visualradio/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YvK1hm7.png" group-title="广播",Radio Impacto 2
 https://panel.streamingtv-mediacp.online:1936/jawepvrvyz/jawepvrvyz/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PDThYr5/Logo-Radio-Isla.png" group-title="广播",Radio Isla TV
-https://59a564764e2b6.streamlock.net/palestra/palestra/playlist.m3u8
+https://panel2.videocontentstreaming.com/live/4fd37e086394ac7e11a87acbc55e8f91.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nyVlZeL.png" group-title="广播",Radio JND
 https://radiojnd.cdn.hostin.cc/radiojnd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g2HpLX1.png" group-title="广播",Radio Karolina TV
