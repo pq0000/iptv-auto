@@ -1,4 +1,34 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg.xml,https://live.zhi35.com/epg.xml.gz"
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="体育",CCTV-5 体育
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226469/1.m3u8?
+#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV5.png" group-title="体育",CCTV-5 体育
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV5.png" group-title="体育",CCTV-5 体育
+http://69.30.245.50/live/cctv5.m3u8
+#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV5.png" group-title="体育",CCTV-5 体育
+http://192.151.150.154/live/cctv5hd.m3u8
+#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV5.png" group-title="体育",CCTV-5 体育
+http://173.208.234.146/live/cctv5.m3u8
+#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV5.png" group-title="体育",CCTV-5 体育
+http://221.226.51.220:50081/newlive/live/hls/6/live.m3u8
+#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV5.png" group-title="体育",CCTV-5 体育
+http://221.226.51.220:50081/newlive/live/hls/5/live.m3u8
+#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV5.png" group-title="体育",CCTV-5 体育
+http://60.187.246.195:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV5.png" group-title="体育",CCTV-5 体育
+http://121.199.48.54/live1/dsdq.m3u8?id=cctv5hd&usign=jCw-MkWk9oF-fhwQoml3pQ
+#EXTINF:-1 group-title="体育",CCTV-5 体育
+http://223.83.177.142:1234/641886683
+#EXTINF:-1 group-title="体育",CCTV-5 体育
+http://116.52.173.168:1234/641886683
+#EXTINF:-1 group-title="体育",CCTV-5 体育
+http://104.152.209.49:8181/720p/cctv5.m3u8
+#EXTINF:-1 group-title="体育",CCTV-5 体育
+http://110.72.84.64:808/hls/38/index.m3u8
+#EXTINF:-1 group-title="体育",CCTV-5 体育
+http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv5hdnew/600/index.m3u8?msisdn=20261124220250baa20aaf4ca8467bade2c9b41e8a10cc&mdspid=&spid=699004&netType=0&sid=5500516171&pid=2028597139&timestamp=20261124220250&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=641886683&ParentNodeID=-99&assertID=5500516171&client_ip=171.8.79.254&SecurityKey=20261124220250&promotionId=&mvid=5102048712&mcid=500020&playurlVersion=WX-A1-9.11.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=a4c8f31e00f68e10b2430c7c40efa658
+#EXTINF:-1 group-title="体育",CCTV-5 体育
+http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv5hdnew/600/index.m3u8?msisdn=202611260202498174023188ce4bd3baa38ed4b582beef&mdspid=&spid=699004&netType=0&sid=5500516171&pid=2028597139&timestamp=20261126020249&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=641886683&ParentNodeID=-99&assertID=5500516171&client_ip=171.8.79.254&SecurityKey=20261126020249&promotionId=&mvid=5102048712&mcid=500020&playurlVersion=WX-A1-9.11.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=2c9463f5c51dd9a3e0c3c6c3d1c8d102
 #EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV5.png" group-title="体育",CCTV-5 体育
 http://74.91.26.218:82/live/cctv5hd.m3u8
 #EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV5.png" group-title="体育",CCTV-5 体育
@@ -9,84 +39,54 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
 http://175.24.134.198:1234/641886683
 #EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV5.png" group-title="体育",CCTV-5 体育
 http://183.129.255.66:8480/hls/5/index.m3u8
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV5.png" group-title="体育",CCTV-5 体育
-http://116.237.170.51:7788/641886683
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV5.png" group-title="体育",CCTV-5 体育
-http://61.136.172.236:9901/tsfile/live/0005_1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-5.png" group-title="体育",CCTV-5 体育
-rtp://239.3.1.173:8001
-#EXTINF:-1 group-title="体育",CCTV-5 体育
-http://223.83.177.142:1234/641886773
-#EXTINF:-1 group-title="体育",CCTV-5 体育
-http://124.90.45.52:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="体育",CCTV-5 体育
-http://222.223.41.27:8888/hls/5/index.m3u8
-#EXTINF:-1 group-title="体育",CCTV-5 体育
-http://221.7.175.154:8445/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="体育",CCTV-5 体育
-http://120.40.39.246:352/newlive/live/hls/6/live.m3u8
-#EXTINF:-1 group-title="体育",CCTV-5 体育
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv5hdnew/600/index.m3u8?msisdn=202611250202500c4b200b031b42f295edc3ffcf27e570&mdspid=&spid=699004&netType=0&sid=5500516171&pid=2028597139&timestamp=20261125020250&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=641886683&ParentNodeID=-99&assertID=5500516171&client_ip=171.8.79.254&SecurityKey=20261125020250&promotionId=&mvid=5102048712&mcid=500020&playurlVersion=WX-A1-9.11.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=e8234969783a737a7aafeb8fee2eb894
-#EXTINF:-1 group-title="体育",CCTV-5 体育
-http://192.168.123.1:23234/rtp/239.3.1.173:8001
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV5.png" group-title="体育",CCTV-5 体育
-http://38.75.136.137:98/gslb/dsdqca/jlwshd.m3u8?auth=test20251009
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV5.png" group-title="体育",CCTV-5 体育
-http://38.75.136.137:98/gslb/dsdqca/xjwshd.m3u8?auth=test20251009
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV5.png" group-title="体育",CCTV-5 体育
-http://38.75.136.137:98/gslb/dsdqca/cctv5hd.m3u8?auth=test20251009
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV5.png" group-title="体育",CCTV-5 体育
-http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV5.png" group-title="体育",CCTV-5 体育
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5hd
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="体育",CCTV-5+ 体育赛事
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8?
+#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV5+.png" group-title="体育",CCTV-5+ 体育赛事
+https://php.jdshipin.com/TVOD/iptv.php?id=cctv5p
+#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV5+.png" group-title="体育",CCTV-5+ 体育赛事
+http://120.76.248.139/live/bfgd/4200000246.m3u8
+#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV5+.png" group-title="体育",CCTV-5+ 体育赛事
+http://61.136.172.236:9901/tsfile/live/0016_1.m3u8
+#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV5+.png" group-title="体育",CCTV-5+ 体育赛事
+http://113.124.186.195:7788/641886773
+#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV5+.png" group-title="体育",CCTV-5+ 体育赛事
+http://61.136.172.236:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV5+.png" group-title="体育",CCTV-5+ 体育赛事
+http://119.29.233.26:1234/641886773
+#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV5+.png" group-title="体育",CCTV-5+ 体育赛事
+http://www.zknowl.com:1234/641886773
+#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV5+.png" group-title="体育",CCTV-5+ 体育赛事
+http://121.199.48.54/live1/dsdq.m3u8?id=cctv5p&usign=jCw-MkWk9oF-fhwQoml3pQ
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="体育",CCTV-5+ 体育赛事
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EevWZ0zmguDsOY_Mf3SM5TA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 group-title="体育",CCTV-5+ 体育赛事
+http://116.52.173.168:1234/641886773
+#EXTINF:-1 group-title="体育",CCTV-5+ 体育赛事
+http://110.72.84.64:808/hls/14/index.m3u8
+#EXTINF:-1 group-title="体育",CCTV-5+ 体育赛事
+http://119.125.131.84:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 group-title="体育",CCTV-5+ 体育赛事
+http://fuxin.yunjifei.top:999/tsfile/live/0016_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="体育",CCTV-5+ 体育赛事
+http://58.54.146.106:85/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="体育",CCTV-5+ 体育赛事
+http://183.223.157.33:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="体育",CCTV-5+ 体育赛事
+http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv5plusnew/600/index.m3u8?msisdn=202611260202504a721015114842569b0f34358e653ece&mdspid=&spid=699004&netType=0&sid=5500516288&pid=2028597139&timestamp=20261126020250&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=641886773&ParentNodeID=-99&assertID=5500516288&client_ip=171.8.79.254&SecurityKey=20261126020250&promotionId=&mvid=5102048803&mcid=500020&playurlVersion=WX-A1-9.11.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=d9a309a1d97fef9640237b910a0a010e
 #EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV5+.png" group-title="体育",CCTV-5+ 体育赛事
 http://192.151.150.154/live/cctv5p.m3u8
 #EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV5+.png" group-title="体育",CCTV-5+ 体育赛事
 http://74.91.26.218:82/live/cctv5p.m3u8
 #EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV5+.png" group-title="体育",CCTV-5+ 体育赛事
 http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV5+.png" group-title="体育",CCTV-5+ 体育赛事
-http://58.57.40.22:9901/tsfile/live/1005_1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-5+.png" group-title="体育",CCTV-5+ 体育赛事
-rtp://239.3.1.130:8004
-#EXTINF:-1 group-title="体育",CCTV-5+ 体育赛事
-http://223.112.114.228:50080/newlive/live/hls/180/live.m3u8
-#EXTINF:-1 group-title="体育",CCTV-5+ 体育赛事
-http://219.147.245.238:25480/newlive/live/hls/6/live.m3u8
-#EXTINF:-1 group-title="体育",CCTV-5+ 体育赛事
-http://27.12.12.40:1234/641886773
-#EXTINF:-1 group-title="体育",CCTV-5+ 体育赛事
-http://110.72.84.44:808/hls/14/index.m3u8
-#EXTINF:-1 group-title="体育",CCTV-5+ 体育赛事
-http://218.13.139.26:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="体育",CCTV-5+ 体育赛事
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv5plusnew/600/index.m3u8?msisdn=2026112502025014e269d41e6f41c98f1d0084d42cef80&mdspid=&spid=699004&netType=0&sid=5500516288&pid=2028597139&timestamp=20261125020250&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=641886773&ParentNodeID=-99&assertID=5500516288&client_ip=171.8.79.254&SecurityKey=20261125020250&promotionId=&mvid=5102048803&mcid=500020&playurlVersion=WX-A1-9.11.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=d7da77853fa93d3368f8b4817714f191
-#EXTINF:-1 group-title="体育",CCTV-5+ 体育赛事
-http://192.168.123.1:23234/rtp/239.3.1.130:8004
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV5+.png" group-title="体育",CCTV-5+ 体育赛事
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV5+.png" group-title="体育",CCTV-5+ 体育赛事
-http://173.208.234.146/live/cctv5p.m3u8
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV5+.png" group-title="体育",CCTV-5+ 体育赛事
-http://107.150.60.122/live/cctv5p.m3u8
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV5+.png" group-title="体育",CCTV-5+ 体育赛事
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5p
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV5+.png" group-title="体育",CCTV-5+ 体育赛事
-http://116.237.170.51:7788/641886773
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV5+.png" group-title="体育",CCTV-5+ 体育赛事
-http://175.24.134.198:1234/641886773
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV5+.png" group-title="体育",CCTV-5+ 体育赛事
-http://118.193.115.2:9901/tsfile/live/0141_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV5+.png" group-title="体育",CCTV-5+ 体育赛事
-http://116.52.173.186:1234/641886773
-#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/logo/douyin/Lt.Firstchoice" group-title="体育",屿风解说足球
-https://live.yang-1989.eu.org/douyin/Lt.Firstchoice
+#EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png" group-title="体育",笑看风云
+https://live.metshop.top/huya/29465858
 #EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/风云剧场.png" group-title="体育",风云剧场
-http://116.2.174.65:4010/rtp/232.0.0.45:1234
+http://60.4.28.14:8077/rtp/239.253.93.251:6429
 #EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/风云剧场.png" group-title="体育",风云剧场
-http://121.199.48.54/live1/jsbv2b.m3u8?id=fyjc&usign=w4KtKj0MAjjWXcY37-KlMg
+http://121.199.48.54/live1/jsbv2b.m3u8?id=fyjc&usign=tWeJljt8RIFUfusT49be_A
 #EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/风云剧场.png" group-title="体育",风云剧场
-http://121.199.48.54/live1/jsbv1.m3u8?id=fyjc&usign=w4KtKj0MAjjWXcY37-KlMg
+http://121.199.48.54/live1/jsbv1.m3u8?id=fyjc&usign=tWeJljt8RIFUfusT49be_A
 #EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/风云剧场.png" group-title="体育",风云剧场
 http://121.199.48.54/live1/jsbv2b.m3u8?id=fyjc&usign=jCw-MkWk9oF-fhwQoml3pQ
 #EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/风云剧场.png" group-title="体育",风云剧场
@@ -150,11 +150,17 @@ http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
 #EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/风云足球.png" group-title="体育",风云足球
 http://120.76.248.139/live/bfgd/4200000225.m3u8
 #EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/高尔夫网球.png" group-title="体育",高尔夫网球
+http://60.4.28.14:8077/rtp/239.253.93.122:6465
+#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/高尔夫网球.png" group-title="体育",高尔夫网球
+http://171.119.204.225:6000/rtp/226.0.2.217:9648
+#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/高尔夫网球.png" group-title="体育",高尔夫网球
+http://171.119.204.232:6000/rtp/226.0.2.217:9648
+#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/高尔夫网球.png" group-title="体育",高尔夫网球
+http://121.199.48.54/live1/jsbv2b.m3u8?id=gefwq&usign=tWeJljt8RIFUfusT49be_A
+#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/高尔夫网球.png" group-title="体育",高尔夫网球
+http://121.199.48.54/live1/jsbv1.m3u8?id=gefwq&usign=tWeJljt8RIFUfusT49be_A
+#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/高尔夫网球.png" group-title="体育",高尔夫网球
 http://204315.xyz:20204/rtp/233.18.204.181:5140
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/高尔夫网球.png" group-title="体育",高尔夫网球
-http://121.199.48.54/live1/jsbv2b.m3u8?id=gefwq&usign=w4KtKj0MAjjWXcY37-KlMg
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/高尔夫网球.png" group-title="体育",高尔夫网球
-http://121.199.48.54/live1/jsbv1.m3u8?id=gefwq&usign=w4KtKj0MAjjWXcY37-KlMg
 #EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/高尔夫网球.png" group-title="体育",高尔夫网球
 http://121.199.48.54/live1/jsbv1.m3u8?id=gefwq&usign=jCw-MkWk9oF-fhwQoml3pQ
 #EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/高尔夫网球.png" group-title="体育",高尔夫网球
@@ -184,11 +190,11 @@ http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
 #EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/高尔夫网球.png" group-title="体育",高尔夫网球
 http://104.152.209.49:8181/720p/gefwq.m3u8
 #EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/风云音乐.png" group-title="体育",风云音乐
-http://116.2.174.65:4010/rtp/232.0.0.47:1234
+http://60.4.28.14:8077/rtp/239.253.93.253:6431
 #EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/风云音乐.png" group-title="体育",风云音乐
-http://121.199.48.54/live1/jsbv2b.m3u8?id=fyyy&usign=w4KtKj0MAjjWXcY37-KlMg
+http://121.199.48.54/live1/jsbv2b.m3u8?id=fyyy&usign=tWeJljt8RIFUfusT49be_A
 #EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/风云音乐.png" group-title="体育",风云音乐
-http://121.199.48.54/live1/jsbv1.m3u8?id=fyyy&usign=w4KtKj0MAjjWXcY37-KlMg
+http://121.199.48.54/live1/jsbv1.m3u8?id=fyyy&usign=tWeJljt8RIFUfusT49be_A
 #EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/风云音乐.png" group-title="体育",风云音乐
 http://121.199.48.54/live1/jsbv1.m3u8?id=fyyy&usign=jCw-MkWk9oF-fhwQoml3pQ
 #EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/风云音乐.png" group-title="体育",风云音乐
@@ -254,8 +260,6 @@ https://live.metshop.top/huya/11279247
 #EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/电影_赛车.png" group-title="体育",电影_赛车
 https://lbds.us.ci/11279247
 #EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/我的体育老师.png" group-title="体育",我的体育老师
-https://mursor.ottiptv.cc/yy/1382745169
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/我的体育老师.png" group-title="体育",我的体育老师
 http://43.138.170.29:35455/yy/1382745169
 #EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/精品体育.png" group-title="体育",精品体育
 https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e50346040e226.m3u8
@@ -272,13 +276,13 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/超级体育.png" group-title="体育",超级体育
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226348/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ETVADpDcwLMjKKWF--XtEOg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/五星体育.png" group-title="体育",五星体育
+http://121.199.48.54/live1/jsbv2b.m3u8?id=wxtyhd&usign=tWeJljt8RIFUfusT49be_A
+#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/五星体育.png" group-title="体育",五星体育
+http://121.199.48.54/live1/jsbv1.m3u8?id=wxtyhd&usign=tWeJljt8RIFUfusT49be_A
+#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/五星体育.png" group-title="体育",五星体育
+http://38.75.136.137:82/live2/shkk.m3u8?id=wxtyhd&usign=tWeJljt8RIFUfusT49be_A
+#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/五星体育.png" group-title="体育",五星体育
 http://198.204.228.26/live/wxtyhd.m3u8
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/五星体育.png" group-title="体育",五星体育
-http://121.199.48.54/live1/jsbv2b.m3u8?id=wxtyhd&usign=w4KtKj0MAjjWXcY37-KlMg
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/五星体育.png" group-title="体育",五星体育
-http://121.199.48.54/live1/jsbv1.m3u8?id=wxtyhd&usign=w4KtKj0MAjjWXcY37-KlMg
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/五星体育.png" group-title="体育",五星体育
-http://38.75.136.137:82/live2/shkk.m3u8?id=wxtyhd&usign=w4KtKj0MAjjWXcY37-KlMg
 #EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/五星体育.png" group-title="体育",五星体育
 http://121.199.48.54/live1/jsbv2b.m3u8?id=wxtyhd&usign=jCw-MkWk9oF-fhwQoml3pQ
 #EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/五星体育.png" group-title="体育",五星体育
@@ -302,11 +306,9 @@ https://cdn15.163189.xyz/163189/wxty
 #EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/五星体育.png" group-title="体育",五星体育
 http://38.75.136.137:98/gslb/dsdqpub/wxtyhd.m3u8?auth=testpub
 #EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/劲爆体育.png" group-title="体育",劲爆体育
-http://113.57.140.161:10081/newlive/live/hls/35/live.m3u8
+http://121.199.48.54/live1/jsbv2b.m3u8?id=jbtyhd&usign=tWeJljt8RIFUfusT49be_A
 #EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/劲爆体育.png" group-title="体育",劲爆体育
-http://121.199.48.54/live1/jsbv2b.m3u8?id=jbtyhd&usign=w4KtKj0MAjjWXcY37-KlMg
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/劲爆体育.png" group-title="体育",劲爆体育
-http://121.199.48.54/live1/jsbv1.m3u8?id=jbtyhd&usign=w4KtKj0MAjjWXcY37-KlMg
+http://121.199.48.54/live1/jsbv1.m3u8?id=jbtyhd&usign=tWeJljt8RIFUfusT49be_A
 #EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/劲爆体育.png" group-title="体育",劲爆体育
 http://121.199.48.54/live1/jsbv1.m3u8?id=jbtyhd&usign=jCw-MkWk9oF-fhwQoml3pQ
 #EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/劲爆体育.png" group-title="体育",劲爆体育
@@ -360,19 +362,17 @@ http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 #EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/广东体育.png" group-title="体育",广东体育
 http://php.jdshipin.com/PLTV/iptv.php?id=gdty
 #EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/睛彩篮球.png" group-title="体育",睛彩篮球
+http://121.199.48.54/live1/jsbv2b.m3u8?id=jclq&usign=tWeJljt8RIFUfusT49be_A
+#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/睛彩篮球.png" group-title="体育",睛彩篮球
+http://121.199.48.54/live1/jsbv1.m3u8?id=jclq&usign=tWeJljt8RIFUfusT49be_A
+#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/睛彩篮球.png" group-title="体育",睛彩篮球
 http://114.254.86.171:4022/rtp/239.3.1.126:8001
 #EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/睛彩篮球.png" group-title="体育",睛彩篮球
 http://111.196.135.80:20000/rtp/239.3.1.126:8001
 #EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/睛彩篮球.png" group-title="体育",睛彩篮球
 http://123.118.53.50:8686/rtp/239.3.1.126:8001
 #EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/睛彩篮球.png" group-title="体育",睛彩篮球
-http://221.220.133.69:8012/rtp/239.3.1.126:8001
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/睛彩篮球.png" group-title="体育",睛彩篮球
 http://114.254.36.150:8888/rtp/239.3.1.126:8001
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/睛彩篮球.png" group-title="体育",睛彩篮球
-http://121.199.48.54/live1/jsbv2b.m3u8?id=jclq&usign=w4KtKj0MAjjWXcY37-KlMg
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/睛彩篮球.png" group-title="体育",睛彩篮球
-http://121.199.48.54/live1/jsbv1.m3u8?id=jclq&usign=w4KtKj0MAjjWXcY37-KlMg
 #EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/睛彩篮球.png" group-title="体育",睛彩篮球
 http://121.199.48.54/live1/jsbv1.m3u8?id=jclq&usign=jCw-MkWk9oF-fhwQoml3pQ
 #EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/睛彩篮球.png" group-title="体育",睛彩篮球
@@ -390,15 +390,15 @@ http://www.kaniptv.cn/uadl.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42ND
 #EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/足球频道.png" group-title="体育",足球频道
 https://epg.pw/stream/c7df950876e6a1ceb8be74ee86f9f702cebbbae29f1d15124ef8f86fd43161cf.m3u8
 #EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/辽宁体育.png" group-title="体育",辽宁体育
-http://121.199.48.54/live1/jsbv2b.m3u8?id=lnty3m&usign=w4KtKj0MAjjWXcY37-KlMg
+http://121.199.48.54/live1/jsbv2b.m3u8?id=lnty3m&usign=tWeJljt8RIFUfusT49be_A
 #EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/辽宁体育.png" group-title="体育",辽宁体育
-http://121.199.48.54/live1/jsbv2b.m3u8?id=lnty&usign=w4KtKj0MAjjWXcY37-KlMg
+http://121.199.48.54/live1/jsbv2b.m3u8?id=lnty&usign=tWeJljt8RIFUfusT49be_A
 #EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/辽宁体育.png" group-title="体育",辽宁体育
-http://121.199.48.54/live1/jsbv1.m3u8?id=lnty3m&usign=w4KtKj0MAjjWXcY37-KlMg
+http://121.199.48.54/live1/jsbv1.m3u8?id=lnty3m&usign=tWeJljt8RIFUfusT49be_A
 #EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/辽宁体育.png" group-title="体育",辽宁体育
-http://121.199.48.54/live1/jsbv1.m3u8?id=lnty&usign=w4KtKj0MAjjWXcY37-KlMg
+http://121.199.48.54/live1/jsbv1.m3u8?id=lnty&usign=tWeJljt8RIFUfusT49be_A
 #EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/辽宁体育.png" group-title="体育",辽宁体育
-kdsvod://rtmphtml://http://v.91kds.com/b7/lnbdy.m3u8?id=lnty&usign=w4KtKj0MAjjWXcY37-KlMg
+kdsvod://rtmphtml://http://v.91kds.com/b7/lnbdy.m3u8?id=lnty&usign=tWeJljt8RIFUfusT49be_A
 #EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/辽宁体育.png" group-title="体育",辽宁体育
 http://121.199.48.54/live1/jsbv2b.m3u8?id=lnty&usign=jCw-MkWk9oF-fhwQoml3pQ
 #EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/辽宁体育.png" group-title="体育",辽宁体育
@@ -410,23 +410,33 @@ http://119.29.233.26:1234/962067526
 #EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/辽宁体育.png" group-title="体育",辽宁体育
 http://dassby.qqff.top:99/live/辽宁体育/index.m3u8
 #EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/魅力足球.png" group-title="体育",魅力足球
+http://1.192.243.163:8188/rtp/239.16.20.113:11130
+#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/魅力足球.png" group-title="体育",魅力足球
+http://171.8.138.124:8800/rtp/239.16.20.113:11130
+#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/魅力足球.png" group-title="体育",魅力足球
 http://8.138.7.223/tv/migu3.php?id=mlzq
 #EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/魅力足球.png" group-title="体育",魅力足球
 mitv://generationnexxxt.com:19806/ca7a1a18635e453a9a77e5fd5d425e89
 #EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/魅力足球.png" group-title="体育",魅力足球
 http://dassby.qqff.top:99/live/快乐垂钓/index.m3u8
 #EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/游戏风云.png" group-title="体育",游戏风云
-http://113.57.140.161:10081/newlive/live/hls/30/live.m3u8
+http://1.192.243.163:8188/rtp/239.16.20.112:11120
 #EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/游戏风云.png" group-title="体育",游戏风云
-http://39.77.158.179:4002/rtp/239.253.254.95:8000
+http://171.119.204.225:6000/rtp/226.0.2.78:8536
+#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/游戏风云.png" group-title="体育",游戏风云
+http://171.119.204.232:6000/rtp/226.0.2.78:8536
+#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/游戏风云.png" group-title="体育",游戏风云
+http://171.8.138.124:8800/rtp/239.16.20.112:11120
+#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/游戏风云.png" group-title="体育",游戏风云
+http://39.77.24.223:4002/rtp/239.253.254.95:8000
+#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/游戏风云.png" group-title="体育",游戏风云
+http://121.199.48.54/live1/jsbv2b.m3u8?id=yxfyhd&usign=tWeJljt8RIFUfusT49be_A
+#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/游戏风云.png" group-title="体育",游戏风云
+http://121.199.48.54/live1/jsbv1.m3u8?id=yxfyhd&usign=tWeJljt8RIFUfusT49be_A
 #EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/游戏风云.png" group-title="体育",游戏风云
 http://39.77.160.233:4002/rtp/239.253.254.95:8000
 #EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/游戏风云.png" group-title="体育",游戏风云
 http://39.77.94.101:4002/rtp/239.253.254.95:8000
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/游戏风云.png" group-title="体育",游戏风云
-http://121.199.48.54/live1/jsbv2b.m3u8?id=yxfyhd&usign=w4KtKj0MAjjWXcY37-KlMg
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/游戏风云.png" group-title="体育",游戏风云
-http://121.199.48.54/live1/jsbv1.m3u8?id=yxfyhd&usign=w4KtKj0MAjjWXcY37-KlMg
 #EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/游戏风云.png" group-title="体育",游戏风云
 http://121.199.48.54/live1/jsbv1.m3u8?id=yxfyhd&usign=jCw-MkWk9oF-fhwQoml3pQ
 #EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/游戏风云.png" group-title="体育",游戏风云
@@ -444,33 +454,33 @@ http://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/山东体育.png" group-title="体育",山东体育
 http://58.57.40.22:9901/tsfile/live/1020_1.m3u8
 #EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/安徽综艺体育.png" group-title="体育",安徽综艺体育
-http://38.75.136.137:82/live2/ahtv2.m3u8?id=ahzy&usign=w4KtKj0MAjjWXcY37-KlMg
+http://38.75.136.137:82/live2/ahtv2.m3u8?id=ahzy&usign=tWeJljt8RIFUfusT49be_A
 #EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/安徽综艺体育.png" group-title="体育",安徽综艺体育
-http://38.75.136.137:82/live2/ahtv3.m3u8?id=ahzy&usign=w4KtKj0MAjjWXcY37-KlMg
+http://38.75.136.137:82/live2/ahtv3.m3u8?id=ahzy&usign=tWeJljt8RIFUfusT49be_A
 #EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/安徽综艺体育.png" group-title="体育",安徽综艺体育
 http://38.75.136.137:82/live2/ahtv2.m3u8?id=ahzy&usign=jCw-MkWk9oF-fhwQoml3pQ
 #EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/安徽综艺体育.png" group-title="体育",安徽综艺体育
 http://38.75.136.137:82/live2/ahtv3.m3u8?id=ahzy&usign=jCw-MkWk9oF-fhwQoml3pQ
 #EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/陕西体育休闲.png" group-title="体育",陕西体育休闲
-http://gslbmgsplive.miguvideo.com/migu/kailu/sxtyxx/50/20250804/index.m3u8?msisdn=202611221322143a4f39fe8e264499a792816c6840d66b&mdspid=&spid=600572&netType=0&sid=5910022189&pid=2028597139&timestamp=20261122132214&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909356&ParentNodeID=-99&assertID=5910022189&client_ip=2409:8a00:6031:7e81:fc24:8ad6:eb4c:bfc1&SecurityKey=20261122132214&promotionId=&mvid=5900006712&mcid=500020&playurlVersion=WX-A1-9.11.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=dd0500a73a5bebb5a3907e1dcfc3f8ae&ddCalcu=edade802f56300c0fac7d31ae57b0e9b3ba5
+http://gslbmgsplive.miguvideo.com/migu/kailu/sxtyxx/50/20250804/index.m3u8?msisdn=20261124083946fdf801ad4f6e421c86a320b3b1dcced5&mdspid=&spid=600572&netType=0&sid=5910022189&pid=2028597139&timestamp=20261124083946&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909356&ParentNodeID=-99&assertID=5910022189&client_ip=2409:8a00:6031:4481:7e18:aa5:bf8d:c2ce&SecurityKey=20261124083946&promotionId=&mvid=5900006712&mcid=500020&playurlVersion=WX-A1-9.11.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=1f0381d95ee41c6234e4e75f830535bd&ddCalcu=d1bfe502336580013d89f55e7ee441ec4632
 #EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/陕西体育休闲.png" group-title="体育",陕西体育休闲
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/sxtyxx/50/20250804/index.m3u8?msisdn=20261123080254cb6124b27ac54685a2613252c8b5b6b5&mdspid=&spid=600572&netType=0&sid=5910022189&pid=2028597139&timestamp=20261123080254&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909356&ParentNodeID=-99&assertID=5910022189&client_ip=171.8.79.254&SecurityKey=20261123080254&promotionId=&mvid=5900006712&mcid=500020&playurlVersion=WX-A1-9.11.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=a8734318f97c535f3a1a3aec9313882c
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/sxtyxx/50/20250804/index.m3u8?msisdn=202611241402546e6432ec5d724dfaac153c7193a5c292&mdspid=&spid=600572&netType=0&sid=5910022189&pid=2028597139&timestamp=20261124140254&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909356&ParentNodeID=-99&assertID=5910022189&client_ip=171.8.79.254&SecurityKey=20261124140254&promotionId=&mvid=5900006712&mcid=500020&playurlVersion=WX-A1-9.11.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=79905a31d596b1a2fbf1386b490a8ef0
 #EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/陕西体育休闲.png" group-title="体育",陕西体育休闲
-http://121.199.48.54/live1/jsbv2b.m3u8?id=sntv7&usign=w4KtKj0MAjjWXcY37-KlMg
+http://121.199.48.54/live1/jsbv2b.m3u8?id=sntv7&usign=tWeJljt8RIFUfusT49be_A
 #EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/陕西体育休闲.png" group-title="体育",陕西体育休闲
-http://121.199.48.54/live1/jsbv1.m3u8?id=sntv7&usign=w4KtKj0MAjjWXcY37-KlMg
+http://121.199.48.54/live1/jsbv1.m3u8?id=sntv7&usign=tWeJljt8RIFUfusT49be_A
 #EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/陕西体育休闲.png" group-title="体育",陕西体育休闲
 http://121.199.48.54/live1/jsbv2b.m3u8?id=sntv7&usign=jCw-MkWk9oF-fhwQoml3pQ
 #EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/陕西体育休闲.png" group-title="体育",陕西体育休闲
 http://121.199.48.54/live1/jsbv1.m3u8?id=sntv7&usign=jCw-MkWk9oF-fhwQoml3pQ
 #EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/北京体育休闲.png" group-title="体育",北京体育休闲
+http://38.75.136.137:82/live2/btv.m3u8?id=btv6&usign=tWeJljt8RIFUfusT49be_A
+#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/北京体育休闲.png" group-title="体育",北京体育休闲
+http://121.199.48.54/live1/jsbv2b.m3u8?id=btv6&usign=tWeJljt8RIFUfusT49be_A
+#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/北京体育休闲.png" group-title="体育",北京体育休闲
+http://121.199.48.54/live1/jsbv1.m3u8?id=btv6&usign=tWeJljt8RIFUfusT49be_A
+#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/北京体育休闲.png" group-title="体育",北京体育休闲
 http://qqdwtypm.f3322.org:64022/rtp/239.3.1.243:8000
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/北京体育休闲.png" group-title="体育",北京体育休闲
-http://38.75.136.137:82/live2/btv.m3u8?id=btv6&usign=w4KtKj0MAjjWXcY37-KlMg
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/北京体育休闲.png" group-title="体育",北京体育休闲
-http://121.199.48.54/live1/jsbv2b.m3u8?id=btv6&usign=w4KtKj0MAjjWXcY37-KlMg
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/北京体育休闲.png" group-title="体育",北京体育休闲
-http://121.199.48.54/live1/jsbv1.m3u8?id=btv6&usign=w4KtKj0MAjjWXcY37-KlMg
 #EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/北京体育休闲.png" group-title="体育",北京体育休闲
 http://38.75.136.137:82/live2/btv.m3u8?id=btv6&usign=jCw-MkWk9oF-fhwQoml3pQ
 #EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/北京体育休闲.png" group-title="体育",北京体育休闲
@@ -488,9 +498,9 @@ https://vd3.bdstatic.com/mda-nba9z1mqi949jyyb/sc/cae_h264_delogo/164462921054630
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/BRTV/BRTV_TiYuXiuXian.png" group-title="体育",体育休闲
 rtp://239.3.1.243:8000
 #EXTINF:-1 group-title="体育",陕西体育休闲频道
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/sxtyxx/50/20250804/index.m3u8?msisdn=202611250202548355d64941474145b501948467d6ca2a&mdspid=&spid=600572&netType=0&sid=5910022189&pid=2028597139&timestamp=20261125020254&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909356&ParentNodeID=-99&assertID=5910022189&client_ip=171.8.79.254&SecurityKey=20261125020254&promotionId=&mvid=5900006712&mcid=500020&playurlVersion=WX-A1-9.11.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=1fab8d88827925a150cc77ec31722167
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/sxtyxx/50/20250804/index.m3u8?msisdn=20261126020253901fb20453204072bd4f6fe26fc144db&mdspid=&spid=600572&netType=0&sid=5910022189&pid=2028597139&timestamp=20261126020253&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909356&ParentNodeID=-99&assertID=5910022189&client_ip=171.8.79.254&SecurityKey=20261126020253&promotionId=&mvid=5900006712&mcid=500020&playurlVersion=WX-A1-9.11.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=5fdf10a17a211861e9b1c2076614463a
 #EXTINF:-1 group-title="体育",体育休闲频道
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/jstv/jstiyu/600/index.m3u8?msisdn=20261125000253543cfd2b236048b2b06284e228cac4f9&mdspid=&spid=699067&netType=0&sid=5500260554&pid=2028597139&timestamp=20261125000253&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=626064707&ParentNodeID=-99&assertID=5500260554&client_ip=171.8.79.254&SecurityKey=20261125000253&promotionId=&mvid=5100186459&mcid=500020&playurlVersion=WX-A1-9.11.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=ebf418302fc7629b31b88f520c3dbcc9
+http://hlsztemgsplive.miguvideo.com:8080/wd_r2/jstv/jstiyu/600/index.m3u8?msisdn=20261126000253e6c21daec3f640b78728e75490bd9855&mdspid=&spid=699067&netType=0&sid=5500260554&pid=2028597139&timestamp=20261126000253&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=626064707&ParentNodeID=-99&assertID=5500260554&client_ip=171.8.79.254&SecurityKey=20261126000253&promotionId=&mvid=5100186459&mcid=500020&playurlVersion=WX-A1-9.11.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=a4ae835d87f8319a511aede17a785690
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Msfhpqd.png" group-title="体育",5Sport(4K)
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_4k_avc/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dRVsB89.png" group-title="体育",5Sport
@@ -581,6 +591,12 @@ https://tvorb.net/ZTV/6918-live.m3u8
 https://cdn.pishow.tv/ott/live/1161/master.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s158255_ld_h15_aa.png?lock=720x540" group-title="体育",DD Sports
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KWDUi3v.png" group-title="体育",Digi Sport 2
+https://rundle.tv/proxy5.php?src=https%3A%2F%2Fkuruk1.xn--okq6e.shop%2Fkuk2%2Fusergendx0ul1ltsDx9lgcdwqrnd-got.htm
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T1ci5UK.png" group-title="体育",Digi Sport 3
+https://rundle.tv/proxy5.php?src=https%3A%2F%2Fpulse1.sanseny001.shop%2Fkuk3%2Fusergendxt1v7slq2rnd-got.htm
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Knj9I6f.png" group-title="体育",Digi Sport 4
+https://rundle.tv/proxy5.php?src=https%3A%2F%2Fpulse1.sanseny001.shop%2Fkuk4%2Fusergendk9g3ks42t3n-got.htm
 #EXTINF:-1 tvg-logo="https://i.logos-download.com/114030/29915-s5120-904df224e4c030fefcc45adda448b6e8.png/DiviSport_Logo_2023-s5120.png" group-title="体育",DiviSport
 http://stream.mcquack.net/457/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/960px-DIRECTV_Sports_2_Latin_America_%282018%29.svg.png" group-title="体育",DSports 2
@@ -646,7 +662,7 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn-mux/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="体育",ESPN Latin America Colombia
 http://181.78.211.244:8005/play/a08q/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="体育",ESPN Latin America Mexico
-http://168.228.44.241:9997/play/a06p/index.m3u8
+https://lilac19.pontiscloud.com/live/gt/ESPN/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png" group-title="体育",ESPN Premium
 http://45.134.141.161:2200/ARG/ESPN_Premium_Argentina_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png" group-title="体育",ESPN Premium
@@ -830,11 +846,19 @@ https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-a
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BURPHzI.png" group-title="体育",Premier Sports
 https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/5/52/Prima_Sport_1_%282022-.n.v.%29.png/revision/latest/scale-to-width-down/1000?cb=20240205121905" group-title="体育",Prima Sport 1
+http://91.235.165.117:8001/play/a07x/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/5/52/Prima_Sport_1_%282022-.n.v.%29.png/revision/latest/scale-to-width-down/1000?cb=20240205121905" group-title="体育",Prima Sport 1
 https://rundle.tv/proxy5.php?src=https%3A%2F%2Firon1.xn--x2rw19a.space%2Fpuk1%2Fusergenrx0cir27aq-got.htm
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hROcepe.png" group-title="体育",Prima Sport 2
+http://91.235.165.117:8001/play/a07y/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hROcepe.png" group-title="体育",Prima Sport 2
 https://rundle.tv/proxy5.php?src=https%3A%2F%2Firon1.xn--x2rw19a.space%2Fpuk2%2Fusergenrnd0clv03fyt-got.htm
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/9/9a/Prima_Sport_3_%282022-.n.v.%29.png/revision/latest/scale-to-width-down/1000?cb=20240205122802" group-title="体育",Prima Sport 3
+http://91.235.165.117:8001/play/a07z/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/9/9a/Prima_Sport_3_%282022-.n.v.%29.png/revision/latest/scale-to-width-down/1000?cb=20240205122802" group-title="体育",Prima Sport 3
 https://rundle.tv/proxy5.php?src=https%3A%2F%2Firon1.xn--x2rw19a.space%2Fpuk3%2Fusergenrx4t0l8sybkr-got.htm
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lqaIIhc.png" group-title="体育",Prima Sport 4
+http://91.235.165.117:8001/play/a080/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lqaIIhc.png" group-title="体育",Prima Sport 4
 https://rundle.tv/proxy5.php?src=https%3A%2F%2Fpulse1.sanseny001.shop%2Fpuk4%2Fusergendx3j2x4tqrnd-got.htm
 #EXTINF:-1 tvg-logo="https://www.media-max.ro/wp-content/uploads/2022/11/Prima-Sport-5-HD-disponibil-in-grila-Vodafone.jpg" group-title="体育",Prima Sport 5
@@ -956,7 +980,7 @@ https://st2.mediabay.tv/KG_KTRK-Sport/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2WJE9CM.png" group-title="体育",Sport
 https://stream8.cinerama.uz/1004/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fa/Sport_Extra_horizontal.svg/revision/latest/scale-to-width-down/1000?cb=20220425110755" group-title="体育",Sport Extra
-http://92.180.26.103/stream/93/index.m3u8
+http://91.235.165.117:8001/play/a087/index.m3u8
 #EXTINF:-1 tvg-logo="https://sptfm.ro/wp-content/uploads/2021/05/logo-sport-total-fm-01.png" group-title="体育",Sport Total FM
 https://livesptfm.com/SPTFM/Live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YWic36u.png" group-title="体育",Sport TV1
@@ -985,8 +1009,6 @@ https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8
 https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ujS6mMo.png" group-title="体育",Sportivnyy
 https://live-3.otcnet.ru/sportivny/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HvFpGeH.png" group-title="体育",Sports Television
-https://live.koryocdn.org/sports/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ulGKX30.png" group-title="体育",SportsGrid
 https://sportsgrid-tribal.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IjN1Nhm.png" group-title="体育",SportsMax News
@@ -1072,7 +1094,7 @@ https://stream8.cinerama.uz/1229/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fXESG0l.png" group-title="体育",viju+ Sport
 http://46.53.200.153:7777/play/a01l/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a3/VoyoSport1.svg" group-title="体育",Voyo Sport 1
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/16677.m3u8
+http://89.45.22.101:8011/play/1/index.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/acf3d1d8-c53e-49ca-86e9-0d9410b106b4/Willow_Sports_dark_Background_1500_1000_color.png" group-title="体育",Willow Sports
 https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DuSSrHV.png" group-title="体育",Win Sports
@@ -1145,8 +1167,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608030eff
 http://cdn6.163189.xyz/163189/amty
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/Trace Sports.png" group-title="体育",Trace Sports
 https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/笑看风云.png" group-title="体育",笑看风云
-https://live.metshop.top/huya/29465858
 #EXTINF:-1 group-title="体育",BRTV体育休闲
 http://192.168.123.1:23234/rtp/239.3.1.243:8000
 #EXTINF:-1 group-title="体育",足球
